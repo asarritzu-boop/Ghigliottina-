@@ -28,5 +28,75 @@
       { "corretto": "MIELE", "errato": "ACQUA", "spiegazione": "Lo trovò all'interno della carcassa di un leone." },
       { "corretto": "COLONNE", "errato": "MURA", "spiegazione": "Le abbatté nel tempio di Dagon per il suo ultimo atto di forza." }
     ]
+  },
+  {
+    "nome": "ESTER",
+    "indizi": [
+      { "corretto": "SUSA", "errato": "BABILONIA", "spiegazione": "La città dove si trovava il palazzo del re." },
+      { "corretto": "MORDECAI", "errato": "DANIELE", "spiegazione": "Suo cugino che la crebbe come una figlia." },
+      { "corretto": "DIGIUNO", "errato": "SACRIFICIO", "spiegazione": "Lo chiese a tutti i giudei prima di andare dal re." },
+      { "corretto": "SCETTRO", "errato": "CORONA", "spiegazione": "Il re lo tese verso di lei per risparmiarle la vita." },
+      { "corretto": "AMAN", "errato": "ARTAXERXES", "spiegazione": "Il nemico che complottò per distruggere il suo popolo." }
+    ]
+  },
+  {
+    "nome": "GIONA",
+    "indizi": [
+      { "corretto": "NINIVE", "errato": "TARSO", "spiegazione": "La città dove Dio lo mandò a predicare." },
+      { "corretto": "GIAFFA", "errato": "TIRO", "spiegazione": "Il porto da cui fuggì per non andare a Ninive." },
+      { "corretto": "TRE", "errato": "SETTE", "spiegazione": "I giorni trascorsi nel ventre del pesce." },
+      { "corretto": "ZUCCA", "errato": "FICO", "spiegazione": "La pianta che Dio fece crescere per fargli ombra." },
+      { "corretto": "SORTE", "errato": "SOGNO", "spiegazione": "Metodo usato dai marinai per capire di chi fosse la colpa." }
+    ]
+  },
+  {
+    "nome": "L'ARCA DEL PATTO",
+    "indizi": [
+      { "corretto": "CHERUBINI", "errato": "ANGELI", "spiegazione": "Le due figure d'oro poste sopra il coperchio." },
+      { "corretto": "MANNA", "errato": "INCENSO", "spiegazione": "Uno degli elementi conservati al suo interno." },
+      { "corretto": "PROPIZIATORIO", "errato": "ALTARE", "spiegazione": "Il nome del coperchio dell'arca." },
+      { "corretto": "GIORDANO", "errato": "NILO", "spiegazione": "Il fiume che si fermò quando l'arca lo toccò." },
+      { "corretto": "DAGON", "errato": "BAAL", "spiegazione": "Il dio la cui statua cadde davanti all'arca." }
+    ]
+  },
+  {
+    "nome": "DEBORA",
+    "indizi": [
+      { "corretto": "PALMA", "errato": "QUERCIA", "spiegazione": "Sedeva sotto questo albero per giudicare Israele." },
+      { "corretto": "BARAC", "errato": "GEDEONE", "spiegazione": "Il condottiero che chiamò per combattere Sisera." },
+      { "corretto": "PROFETESSA", "errato": "REGINA", "spiegazione": "Il ruolo spirituale che ricopriva in Israele." },
+      { "corretto": "TABOR", "errato": "ERMON", "spiegazione": "Il monte dove radunò l'esercito." },
+      { "corretto": "LAPIDOT", "errato": "EBER", "spiegazione": "Il nome di suo marito." }
+    ]
+  },
+  {
+    "nome": "IL MONTE SINAI",
+    "indizi": [
+      { "corretto": "ROVETO", "errato": "CEDRO", "spiegazione": "La pianta che bruciava senza consumarsi." },
+      { "corretto": "TAVOLE", "errato": "ROTOLI", "spiegazione": "Su di esse furono scritti i Dieci Comandamenti." },
+      { "corretto": "QUARANTA", "errato": "DODICI", "spiegazione": "I giorni che Mosè passò sulla cima." },
+      { "corretto": "NUBE", "errato": "PIOGGIA", "spiegazione": "Copriva il monte mentre Dio parlava." },
+      { "corretto": "VITELLO", "errato": "ARIETE", "spiegazione": "L'idolo d'oro costruito dal popolo a valle." }
+    ]
+  },
+  {
+    "nome": "GIOBBE",
+    "indizi": [
+      { "corretto": "UZ", "errato": "UR", "spiegazione": "Il paese in cui viveva questo uomo integro." },
+      { "corretto": "SETTE", "errato": "TRE", "spiegazione": "Il numero dei figli maschi che aveva all'inizio." },
+      { "corretto": "CENERI", "errato": "ACQUA", "spiegazione": "Dove sedette per il dolore durante la prova." },
+      { "corretto": "COCCIO", "errato": "COLTELLO", "spiegazione": "Lo usò per grattarsi a causa delle piaghe." },
+      { "corretto": "ELIHU", "errato": "ELIFAS", "spiegazione": "Il giovane che aspettò prima di parlare a Giobbe." }
+    ]
+  },
+  {
+    "nome": "RUTH",
+    "indizi": [
+      { "corretto": "MOAB", "errato": "EDOM", "spiegazione": "La sua terra d'origine prima di andare a Betlemme." },
+      { "corretto": "SPIGOLARE", "errato": "SEMINARE", "spiegazione": "L'attività che svolgeva nel campo di Boaz." },
+      { "corretto": "ORZO", "errato": "GRANO", "spiegazione": "Il cereale che Boaz le diede in abbondanza." },
+      { "corretto": "NAOMI", "errato": "SARA", "spiegazione": "Sua suocera che non volle abbandonare." },
+      { "corretto": "OBED", "errato": "IESSE", "spiegazione": "Il figlio che ebbe da Boaz, nonno di Davide." }
+    ]
   }
 ]
