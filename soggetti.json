@@ -90,7 +90,7 @@
     ]
   },
   {
-    "nome": "RUTH",
+    "nome": "RUT",
     "indizi": [
       { "corretto": "MOAB", "errato": "EDOM", "spiegazione": "La sua terra d'origine prima di andare a Betlemme." },
       { "corretto": "SPIGOLARE", "errato": "SEMINARE", "spiegazione": "L'attività che svolgeva nel campo di Boaz." },
@@ -128,5 +128,145 @@
       { "corretto": "OSPITALITA", "errato": "PROFEZIA", "spiegazione": "Insistette affinché Paolo alloggiasse a casa sua." },
       { "corretto": "CUORE", "errato": "MENTE", "spiegazione": "Dio aprì pienamente il suo per dare ascolto alle parole di Paolo." }
     ]
-  }
+  },
+  {
+    "nome": "CALEB",
+    "indizi": [
+      { "corretto": "HEBRON", "errato": "GERICO", "spiegazione": "La città che ricevette in eredità a 85 anni." },
+      { "corretto": "ESPLORATORE", "errato": "SACERDOTE", "spiegazione": "Insieme a Giosuè, portò un rapporto positivo sulla terra." },
+      { "corretto": "GIUDA", "errato": "DAN", "spiegazione": "La tribù di cui era il rappresentante." },
+      { "corretto": "FEDELTA", "errato": "TIMORE", "spiegazione": "Dio disse che aveva mostrato uno 'spirito diverso'." },
+      { "corretto": "IEFUNNE", "errato": "NUN", "spiegazione": "Il nome di suo padre." }
+    ]
+  },
+  {
+    "nome": "MELCHISEDEC",
+    "indizi": [
+      { "corretto": "SALEM", "errato": "BETEL", "spiegazione": "Il nome della città di cui era re." },
+      { "corretto": "PANE", "errato": "ORO", "spiegazione": "Insieme al vino, fu ciò che offrì ad Abramo." },
+      { "corretto": "DECIMA", "errato": "OFFERTA", "spiegazione": "Ciò che Abramo gli diede dopo la vittoria sui re." },
+      { "corretto": "SACERDOTE", "errato": "GIUDICE", "spiegazione": "Era sacerdote dell'Iddio Altissimo." },
+      { "corretto": "PACE", "errato": "GUERRA", "spiegazione": "Il suo nome significa 'Re di Giustizia' e 'Re di Pace'." }
+    ]
+  },
+  {
+    "nome": "NAAMAN",
+    "indizi": [
+      { "corretto": "SIRIA", "errato": "MOAB", "spiegazione": "Il paese di cui era il capo dell'esercito." },
+      { "corretto": "LEBBRA", "errato": "CECITA", "spiegazione": "La malattia da cui fu guarito miracolosamente." },
+      { "corretto": "RAGAZZINA", "errato": "PROFETESSA", "spiegazione": "Una prigioniera israelita gli suggerì il profeta." },
+      { "corretto": "ELISEO", "errato": "ELIA", "spiegazione": "Il profeta che gli disse di lavarsi nel Giordano." },
+      { "corretto": "TERRA", "errato": "ARGENTO", "spiegazione": "Ne chiese il carico di due muli per portarla a casa." }
+    ]
+  },
+  {
+    "nome": "CORONA DI SPINE",
+    "indizi": [
+      { "corretto": "SOLDATI", "errato": "FARISEI", "spiegazione": "Coloro che la intrecciarono per schernire Gesù." },
+      { "corretto": "PORPORA", "errato": "BIANCO", "spiegazione": "Il colore del mantello messo a Gesù insieme alla corona." },
+      { "corretto": "CANNA", "errato": "BASTONE", "spiegazione": "Messa nella sua mano destra come finto scettro." },
+      { "corretto": "PRETORIO", "errato": "TEMPIO", "spiegazione": "Il luogo dove avvenne questo scherno." },
+      { "corretto": "GIUDEI", "errato": "GRECI", "spiegazione": "Lo chiamavano ironicamente 'Re dei Giudei'." }
+    ]
+  },
+  {
+    "nome": "MORTAIO",
+    "indizi": [
+      { "corretto": "MANNA", "errato": "GRANO", "spiegazione": "Usato per pestare il cibo del deserto prima di cuocerlo." },
+      { "corretto": "PIETRA", "errato": "LEGNO", "spiegazione": "Il materiale duro con cui era solitamente costruito." },
+      { "corretto": "STOLTO", "errato": "SAGGIA", "spiegazione": "Un proverbio dice che la sua stoltezza non lo lascerà anche se pestato qui." },
+      { "corretto": "POLVERE", "errato": "ACQUA", "spiegazione": "Il risultato dell'azione di pestare i semi." },
+      { "corretto": "CUCINA", "errato": "TEMPIO", "spiegazione": "L'ambiente domestico dove era più comune trovarlo." }
+    ]
+  },
+  {
+    "nome": "BARNABA",
+    "indizi": [
+      { "corretto": "CONSOLAZIONE", "errato": "FORZA", "spiegazione": "Il suo nome significa 'Figlio di Consolazione'." },
+      { "corretto": "CIPRO", "errato": "MALTA", "spiegazione": "L'isola di cui era originario questo levita." },
+      { "corretto": "MARCO", "errato": "LUCA", "spiegazione": "Il giovane cugino che volle portare con sé." },
+      { "corretto": "CAMPO", "errato": "CASA", "spiegazione": "Lo vendette per dare il ricavato agli apostoli." },
+      { "corretto": "ANTIOCHIA", "errato": "ROMA", "spiegazione": "La congregazione dove lavorò a lungo con Paolo." }
+    ]
+  },
+  {
+    "nome": "MALCO",
+    "indizi": [
+      { "corretto": "ORECCHIO", "errato": "MANO", "spiegazione": "La parte del corpo che gli fu tagliata durante l'arresto." },
+      { "corretto": "PIETRO", "errato": "GIUDA", "spiegazione": "L'apostolo che sguainò la spada per colpirlo." },
+      { "corretto": "SCHIAVO", "errato": "SOLDATO", "spiegazione": "Il suo ruolo al servizio del sommo sacerdote." },
+      { "corretto": "TOCCO", "errato": "PAROLA", "spiegazione": "Gesù lo guarì immediatamente sfiorando la ferita." },
+      { "corretto": "CAIFA", "errato": "PILATO", "spiegazione": "Il sommo sacerdote di cui era servitore." }
+    ]
+  },
+  {
+    "nome": "EFOD",
+    "indizi": [
+      { "corretto": "LINO", "errato": "SETA", "spiegazione": "Il materiale principale della sopravveste sacerdotale." },
+      { "corretto": "SPALLE", "errato": "FIANCHI", "spiegazione": "Dove erano poste le due pietre d'onice con i nomi delle tribù." },
+      { "corretto": "CINTURA", "errato": "CORONA", "spiegazione": "Fatta dello stesso materiale, serviva a fissarlo." },
+      { "corretto": "ORO", "errato": "ARGENTO", "spiegazione": "Uno dei materiali preziosi intrecciati nel tessuto." },
+      { "corretto": "SACERDOTE", "errato": "RE", "spiegazione": "L'indumento distintivo di chi serviva nel santuario." }
+    ]
+  },
+  {
+    "nome": "OG",
+    "indizi": [
+      { "corretto": "GIGANTE", "errato": "NANO", "spiegazione": "Uno degli ultimi rimasti della stirpe dei Refaim." },
+      { "corretto": "FERRO", "errato": "LEGNO", "spiegazione": "Il materiale di cui era fatto il suo enorme letto." },
+      { "corretto": "RE", "errato": "PROFETA", "spiegazione": "Il sovrano della regione famosa per le querce." },
+      { "corretto": "EDREI", "errato": "SODOMA", "spiegazione": "La città dove fu sconfitto dagli israeliti." },
+      { "corretto": "NOVE", "errato": "CINQUE", "spiegazione": "La lunghezza in cubiti del suo letto." }
+    ]
+  },
+  {
+    "nome": "EZECHIA",
+    "indizi": [
+      { "corretto": "SENNACERIB", "errato": "NABU", "spiegazione": "Il re assiro che minacciò Gerusalemme." },
+      { "corretto": "QUINDICI", "errato": "DIECI", "spiegazione": "Gli anni di vita che Dio gli aggiunse." },
+      { "corretto": "TUNNEL", "errato": "PONTE", "spiegazione": "Fece scavare un acquedotto nella roccia." },
+      { "corretto": "OMBRA", "errato": "SOLE", "spiegazione": "Quella della meridiana tornò indietro come segno." },
+      { "corretto": "LETTERA", "errato": "SCUDO", "spiegazione": "La spiegò davanti a Geova per mostrare la minaccia." }
+    ]
+  },
+  {
+    "nome": "BASTONE DI ARONNE",
+    "indizi": [
+      { "corretto": "MANDORLO", "errato": "ULIVO", "spiegazione": "Il tipo di legno che produsse fiori e frutti." },
+      { "corretto": "SERPENTE", "errato": "COCCODRILLO", "spiegazione": "Ciò in cui si trasformò davanti al Faraone." },
+      { "corretto": "ARCA", "errato": "ALTARE", "spiegazione": "Vi fu riposto come testimonianza contro i ribelli." },
+      { "corretto": "LEVI", "errato": "GIUDA", "spiegazione": "Il nome della tribù che era scritto sopra." },
+      { "corretto": "GERMOGLIO", "errato": "RADICE", "spiegazione": "Apparve in una notte per confermare il sacerdozio." }
+    ]
+  },
+  {
+    "nome": "PRISCILLA",
+    "indizi": [
+      { "corretto": "AQUILA", "errato": "PIETRO", "spiegazione": "Il nome di suo marito, con cui lavorava in coppia." },
+      { "corretto": "TENDE", "errato": "RETI", "spiegazione": "Il mestiere che condivideva con Paolo." },
+      { "corretto": "APOLLO", "errato": "TIMOTEO", "spiegazione": "L'oratore a cui spiegarono meglio la verità." },
+      { "corretto": "ROMA", "errato": "GERUSALEMME", "spiegazione": "La città da cui fuggì per il decreto di Claudio." },
+      { "corretto": "CASA", "errato": "TEMPIO", "spiegazione": "Luogo dove si radunava la congregazione da lei ospitata." }
+    ]
+  },
+  {
+    "nome": "GETSEMANI",
+    "indizi": [
+      { "corretto": "SUDORE", "errato": "LACRIME", "spiegazione": "Divenne come gocce di sangue per l'intensa preghiera." },
+      { "corretto": "DORMIRE", "errato": "VEGLIARE", "spiegazione": "Ciò che fecero i discepoli mentre Gesù soffriva." },
+      { "corretto": "BACIO", "errato": "GRIDO", "spiegazione": "Il segnale usato da Giuda per il tradimento." },
+      { "corretto": "CALICE", "errato": "PANE", "spiegazione": "Gesù chiese se fosse possibile allontanarlo." },
+      { "corretto": "ULIVI", "errato": "CEDRI", "spiegazione": "Il tipo di alberi presenti in questo giardino." }
+    ]
+  },
+  {
+    "nome": "GIOSIA",
+    "indizi": [
+      { "corretto": "OTTO", "errato": "DODICI", "spiegazione": "L'età in cui iniziò a regnare su Giuda." },
+      { "corretto": "LIBRO", "errato": "SPADA", "spiegazione": "Durante i restauri fu ritrovato il rotolo della Legge." },
+      { "corretto": "PASQUA", "errato": "PENTECOSTE", "spiegazione": "Celebrò la più grande ricorrenza dai tempi dei giudici." },
+      { "corretto": "IDOLI", "errato": "MURA", "spiegazione": "Fece distruggere tutti gli altari pagani." },
+      { "corretto": "MEGIDDO", "errato": "IERICO", "spiegazione": "La località dove fu ferito a morte in battaglia." }
+    ]
+      }
 ]
