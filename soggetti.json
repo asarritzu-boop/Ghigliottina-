@@ -16,7 +16,7 @@
       { "corretto": "GAT", "errato": "GABBATA", "spiegazione": "La città da cui proveniva il gigante." },
       { "corretto": "FRONTE", "errato": "CUORE", "spiegazione": "Il punto in cui fu colpito dalla pietra di Davide." },
       { "corretto": "SEI", "errato": "QUATTRO", "spiegazione": "La sua altezza era di sei cubiti e un palmo." },
-      { "corretto": "SPADA", "errato": "ARCO", "spiegazione": "Davide usò proprio l'arma del gigante per decapitarlo." }
+      { "corretto": "SPADA", "errato": "ARCO", "spiegazione": "Davide usò l'arma del gigante per decapitarlo." }
     ]
   },
   {
@@ -73,7 +73,7 @@
     "nome": "MONTE SINAI",
     "indizi": [
       { "corretto": "ROVETO", "errato": "CEDRO", "spiegazione": "La pianta che bruciava senza consumarsi." },
-      { "corretto": "TAVOLE", "errato": "ROTOLI", "spiegazione": "Su di esse furono scritti i Dieci Comandamenti." },
+      { "corretto": "TAVOLE", "errato": "ROTOLI", "spiegazione": "Su esse furono scritti i Dieci Comandamenti." },
       { "corretto": "QUARANTA", "errato": "DODICI", "spiegazione": "I giorni che Mosè passò sulla cima." },
       { "corretto": "NUBE", "errato": "PIOGGIA", "spiegazione": "Copriva il monte mentre Dio parlava." },
       { "corretto": "VITELLO", "errato": "ARIETE", "spiegazione": "L'idolo d'oro costruito dal popolo a valle." }
@@ -90,7 +90,7 @@
     ]
   },
   {
-    "nome": "RUT",
+    "nome": "RUTH",
     "indizi": [
       { "corretto": "MOAB", "errato": "EDOM", "spiegazione": "La sua terra d'origine prima di andare a Betlemme." },
       { "corretto": "SPIGOLARE", "errato": "SEMINARE", "spiegazione": "L'attività che svolgeva nel campo di Boaz." },
@@ -104,29 +104,9 @@
     "indizi": [
       { "corretto": "CARMELO", "errato": "TABOR", "spiegazione": "Il monte della sfida contro i profeti di Baal." },
       { "corretto": "CORVI", "errato": "PASSARI", "spiegazione": "Gli uccelli che gli portavano pane e carne." },
-      { "corretto": "CARRO", "errato": "NUBE", "spiegazione": "Fu portato via da un carro di fuoco e un turbine." },
+      { "corretto": "CARRO", "errato": "NUBE", "spiegazione": "Fu portato via da un carro di fuoco." },
       { "corretto": "MANTELLO", "errato": "BASTONE", "spiegazione": "Lo usò per dividere le acque del Giordano." },
       { "corretto": "SAREPTA", "errato": "SODOMA", "spiegazione": "La città della vedova che lo ospitò." }
-    ]
-  },
-  {
-    "nome": "CANDELABRO",
-    "indizi": [
-      { "corretto": "ORO", "errato": "ARGENTO", "spiegazione": "Era fatto interamente d'oro puro battuto." },
-      { "corretto": "SETTE", "errato": "DODICI", "spiegazione": "Il numero totale delle sue lampade." },
-      { "corretto": "MANDORLO", "errato": "ULIVO", "spiegazione": "I suoi calici avevano la forma di questo fiore." },
-      { "corretto": "SANTUARIO", "errato": "CORTILE", "spiegazione": "Si trovava nel Luogo Santo, di fronte alla tavola." },
-      { "corretto": "OLIO", "errato": "CERA", "spiegazione": "Alimentato con olio d'oliva puro." }
-    ]
-  },
-  {
-    "nome": "GOSUÈ",
-    "indizi": [
-      { "corretto": "NUN", "errato": "CALEB", "spiegazione": "Il nome di suo padre." },
-      { "corretto": "IERICO", "errato": "AI", "spiegazione": "La prima città conquistata dopo aver attraversato il Giordano." },
-      { "corretto": "SOLE", "errato": "LUNA", "spiegazione": "Comandò a questo astro di fermarsi su Gabaon." },
-      { "corretto": "ESPLORATORE", "errato": "SACERDOTE", "spiegazione": "Fu uno dei dodici mandati a spiare Canaan." },
-      { "corretto": "EFRAIM", "errato": "GIUDA", "spiegazione": "La tribù a cui apparteneva." }
     ]
   },
   {
@@ -137,6 +117,16 @@
       { "corretto": "GIUDIZIO", "errato": "POTENZA", "spiegazione": "Veniva chiamato 'Pettorale del Giudizio'." },
       { "corretto": "CUORE", "errato": "BRACCIO", "spiegazione": "Il sommo sacerdote lo portava sopra il suo cuore." },
       { "corretto": "FILO BLU", "errato": "FILO NERO", "spiegazione": "Usato per legarlo all'efod." }
+    ]
+  },
+  {
+    "nome": "LIDIA",
+    "indizi": [
+      { "corretto": "PORPORA", "errato": "LANA", "spiegazione": "Era una commerciante di tessuti di questo colore pregiato." },
+      { "corretto": "FILIPPI", "errato": "EFESO", "spiegazione": "La città dove incontrò l'apostolo Paolo." },
+      { "corretto": "TIATIRA", "errato": "SUSA", "spiegazione": "La sua città d'origine in Asia Minore." },
+      { "corretto": "OSPITALITA", "errato": "PROFEZIA", "spiegazione": "Insistette affinché Paolo alloggiasse a casa sua." },
+      { "corretto": "CUORE", "errato": "MENTE", "spiegazione": "Dio aprì pienamente il suo per dare ascolto alle parole di Paolo." }
     ]
   }
 ]
