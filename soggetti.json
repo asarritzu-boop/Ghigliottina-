@@ -418,5 +418,206 @@
       { "corretto": "ARPE", "errato": "TROMBE", "spiegazione": "Gli strumenti musicali che i fedeli tengono in mano." },
       { "corretto": "CANTO", "errato": "SILENZIO", "spiegazione": "Ciò che eseguono coloro che si trovano in questa posizione gloriosa." }
     ]
+  },
+    {
+    "nome": "TIRO",
+    "indizi": [
+      { "corretto": "ISOLA", "errato": "MONTE", "spiegazione": "La parte più fortificata della città sorgeva staccata dalla costa." },
+      { "corretto": "COMMERCIO", "errato": "AGRICOLTURA", "spiegazione": "Famosa per le sue navi che viaggiavano in tutto il Mediterraneo." },
+      { "corretto": "PORPORA", "errato": "SETA", "spiegazione": "Rinomata per la produzione di questo colorante estratto dai molluschi." },
+      { "corretto": "HIRAM", "errato": "ACHAB", "spiegazione": "Il re di questa città che fornì materiali per il tempio di Salomone." },
+      { "corretto": "RETI", "errato": "VIGNE", "spiegazione": "La profezia disse che sarebbe diventata un luogo dove stenderle ad asciugare." }
+    ]
+  },
+  {
+    "nome": "SAUL",
+    "indizi": [
+      { "corretto": "SPIRITISMO", "errato": "SACRIFICIO", "spiegazione": "Consultò una medium a En-Dor prima della sua ultima battaglia." },
+      { "corretto": "ALTO", "errato": "BASSO", "spiegazione": "La Bibbia dice che superava tutti dalle spalle in su." },
+      { "corretto": "BENIAMINO", "errato": "GIUDA", "spiegazione": "La più piccola tribù d'Israele da cui proveniva." },
+      { "corretto": "LANCI", "errato": "FRECCE", "spiegazione": "Cercò più volte di colpire Davide mentre suonava l'arpa." },
+      { "corretto": "GIBEA", "errato": "GERUSALEMME", "spiegazione": "La città che fungeva da sua capitale." }
+    ]
+  },
+  {
+    "nome": "CORNELIO",
+    "indizi": [
+      { "corretto": "CESAREA", "errato": "GIAFFA", "spiegazione": "La città costiera dove risiedeva questo ufficiale romano." },
+      { "corretto": "INCIRCUMCISO", "errato": "PROSELITO", "spiegazione": "Fu il primo non giudeo a ricevere lo spirito santo." },
+      { "corretto": "ELEMOSINE", "errato": "TASSE", "spiegazione": "Le sue preghiere e i suoi doni ai poveri salirono come ricordo a Dio." },
+      { "corretto": "PIETRO", "errato": "PAOLO", "spiegazione": "L'apostolo che fu mandato da lui dopo una visione." },
+      { "corretto": "ITALICA", "errato": "EGIZIANA", "spiegazione": "Il nome della coorte di cui era a capo." }
+    ]
+  },
+  {
+    "nome": "VALLE DI ACOR",
+    "indizi": [
+      { "corretto": "ACAN", "errato": "CORA", "spiegazione": "L'uomo che fu lapidato qui per aver rubato il bottino di Gerico." },
+      { "corretto": "OSTRACISMO", "errato": "TRISTEZZA", "spiegazione": "Il significato del nome è 'Valle del Disturbo' o 'Ostracismo'." },
+      { "corretto": "MANTELLO", "errato": "SCUDO", "spiegazione": "Uno degli oggetti proibiti portati via furtivamente da Gerico." },
+      { "corretto": "LINGOTTO", "errato": "CORONA", "spiegazione": "Un pezzo d'oro nascosto sotto la tenda del colpevole." },
+      { "corretto": "SPERANZA", "errato": "MORTE", "spiegazione": "In una profezia di Osea, la valle diventa una 'porta di speranza'." }
+    ]
+  },
+  {
+    "nome": "IESSE",
+    "indizi": [
+      { "corretto": "GERMOGLIO", "errato": "RADICE", "spiegazione": "La profezia di Isaia dice che ne sarebbe uscito uno." },
+      { "corretto": "DAVIDE", "errato": "SALOMONE", "spiegazione": "Iesse era il padre di questo grande re pastore." },
+      { "corretto": "BETLEMME", "errato": "NAZARETH", "spiegazione": "La città d'origine di questa famiglia regale." },
+      { "corretto": "MESSIA", "errato": "PROFETA", "spiegazione": "Il titolo del discendente promesso da questa stirpe." },
+      { "corretto": "PECORA", "errato": "LEONE", "spiegazione": "Iesse viveva come un semplice allevatore prima dell'ascesa del figlio." }
+    ]
+  },
+  {
+    "nome": "TERAFIM",
+    "indizi": [
+      { "corretto": "STATUETTE", "errato": "TAVOLE", "spiegazione": "Piccole immagini usate spesso per la divinazione." },
+      { "corretto": "RACHELE", "errato": "LEA", "spiegazione": "Le rubò al padre Labano prima di fuggire con Giacobbe." },
+      { "corretto": "SELLA", "errato": "CESTO", "spiegazione": "Il luogo dove furono nascoste per non farle trovare dal padre." },
+      { "corretto": "MICOL", "errato": "ESTER", "spiegazione": "Ne mise uno nel letto per simulare la presenza di Davide in fuga." },
+      { "corretto": "IDOLATRIA", "errato": "LEGGE", "spiegazione": "Il loro uso era severamente condannato dai profeti fedeli." }
+    ]
+  },
+  {
+    "nome": "MOGLIE DI LOT",
+    "indizi": [
+      { "corretto": "SALE", "errato": "PIETRA", "spiegazione": "Divenne una statua di questo materiale per aver disubbidito." },
+      { "corretto": "INDIETRO", "errato": "AVANTI", "spiegazione": "L'azione fatale di voltarsi a guardare la città in fiamme." },
+      { "corretto": "SODOMA", "errato": "ZOAR", "spiegazione": "La città corrotta che stava abbandonando con la famiglia." },
+      { "corretto": "ANGELI", "errato": "PASTORI", "spiegazione": "Coloro che avevano ordinato di non voltarsi durante la fuga." },
+      { "corretto": "RICORDATE", "errato": "DIMENTICATE", "spiegazione": "Gesù disse: 'Ricordate la moglie di Lot' come avvertimento." }
+    ]
+  },
+  {
+    "nome": "BALDASSARRE",
+    "indizi": [
+      { "corretto": "SCRITTURA", "errato": "SOGNO", "spiegazione": "Ne vide una miracolosa apparire sul muro durante un banchetto." },
+      { "corretto": "CALICI", "errato": "SPADE", "spiegazione": "Usò profanamente quelli d'oro presi dal tempio di Gerusalemme." },
+      { "corretto": "DANIELE", "errato": "GIOELE", "spiegazione": "L'unico profeta in grado di interpretare il messaggio divino." },
+      { "corretto": "BABILONIA", "errato": "NINIVE", "spiegazione": "Fu l'ultimo re di questo impero prima della caduta." },
+      { "corretto": "PESATO", "errato": "MISURATO", "spiegazione": "Una parola del messaggio indicava che era stato pesato e trovato mancante." }
+    ]
+  },
+  {
+    "nome": "GIUSEPPE",
+    "indizi": [
+      { "corretto": "FALEGNAME", "errato": "PESCATORE", "spiegazione": "Il mestiere che insegnò anche a Gesù." },
+      { "corretto": "EGITTO", "errato": "SIRIA", "spiegazione": "Il paese dove fuggì per proteggere il bambino da Erode." },
+      { "corretto": "GIUSTO", "errato": "RICCO", "spiegazione": "La Bibbia lo definisce così perché non voleva esporre Maria al pubblico disonore." },
+      { "corretto": "SOGNO", "errato": "VISIONE", "spiegazione": "Il mezzo principale usato da Dio per comunicare con lui." },
+      { "corretto": "DAVIDE", "errato": "LEVITA", "spiegazione": "Apparteneva alla discendenza legale di questo grande re." }
+    ]
+  },
+  {
+    "nome": "TABERNACOLO",
+    "indizi": [
+      { "corretto": "TENDA", "errato": "PALAZZO", "spiegazione": "Era una struttura mobile fatta di teli e pelli." },
+      { "corretto": "DESERTO", "errato": "MONTAGNA", "spiegazione": "Il luogo dove Israele lo portò per quarant'anni." },
+      { "corretto": "BEZALEL", "errato": "ARONNE", "spiegazione": "L'artigiano scelto da Dio per dirigere i lavori di costruzione." },
+      { "corretto": "CORTILE", "errato": "SALA", "spiegazione": "L'area esterna recintata dove si trovava l'altare dei sacrifici." },
+      { "corretto": "NUBE", "errato": "FUOCO", "spiegazione": "Di giorno indicava che la presenza di Dio era sulla struttura." }
+    ]
+  },
+  {
+    "nome": "MOGLIE DI PILATO",
+    "indizi": [
+      { "corretto": "SOGNO", "errato": "VISIONE", "spiegazione": "Ne fece uno terribile riguardo a Gesù mentre era in tribunale." },
+      { "corretto": "MESSAGGIO", "errato": "GRIDO", "spiegazione": "Mandò a dire al marito di non avere nulla a che fare con quel 'giusto'." },
+      { "corretto": "GIUSTO", "errato": "RE", "spiegazione": "L'aggettivo che usò per definire Gesù nel suo avvertimento." },
+      { "corretto": "MATTEO", "errato": "LUCA", "spiegazione": "L'unico vangelo che riporta questo episodio specifico." },
+      { "corretto": "PENA", "errato": "GIOIA", "spiegazione": "Disse di aver sofferto molto a causa di quel sogno." }
+    ]
+  },
+  {
+    "nome": "GEROBOAMO",
+    "indizi": [
+      { "corretto": "VITELLI", "errato": "LEONI", "spiegazione": "Ne fece costruire due d'oro per sviare il popolo da Gerusalemme." },
+      { "corretto": "DIECI", "errato": "DUE", "spiegazione": "Il numero di tribù che si separarono per formare il suo regno." },
+      { "corretto": "DAN", "errato": "GIUDA", "spiegazione": "Una delle due città (insieme a Betel) dove pose gli idoli." },
+      { "corretto": "MANO", "errato": "PIEDE", "spiegazione": "La sua si inaridì quando cercò di far arrestare un profeta." },
+      { "corretto": "ISRAELE", "errato": "EDOM", "spiegazione": "Fu il primo re del regno settentrionale dopo la divisione." }
+    ]
+  },
+  {
+    "nome": "STEFANO",
+    "indizi": [
+      { "corretto": "PIETRE", "errato": "SPADA", "spiegazione": "Fu lo strumento usato per il suo martirio." },
+      { "corretto": "SAULO", "errato": "PILATO", "spiegazione": "Il futuro apostolo Paolo approvava la sua uccisione e custodiva i mantelli." },
+      { "corretto": "ANGELO", "errato": "RE", "spiegazione": "Coloro che lo accusavano videro il suo viso come quello di un angelo." },
+      { "corretto": "PERDONO", "errato": "VENDETTA", "spiegazione": "Prima di morire chiese a Dio di non imputare loro questo peccato." },
+      { "corretto": "PRIMO", "errato": "ULTIMO", "spiegazione": "È considerato il primo martire cristiano." }
+    ]
+  },
+  {
+    "nome": "MAR ROSSO",
+    "indizi": [
+      { "corretto": "VENTO", "errato": "PIOGGIA", "spiegazione": "Dio usò un forte vento orientale per dividere le acque." },
+      { "corretto": "MURA", "errato": "PONTE", "spiegazione": "Le acque si fermarono a destra e a sinistra formando due pareti." },
+      { "corretto": "EGIZIANI", "errato": "EDOMITI", "spiegazione": "L'esercito che annegò quando le acque tornarono al loro posto." },
+      { "corretto": "TAMBURELLO", "errato": "ARPA", "spiegazione": "Miriam lo usò per guidare il canto di vittoria sulla riva opposta." },
+      { "corretto": "PASQUA", "errato": "PENTECOSTE", "spiegazione": "L'evento avvenne subito dopo la prima celebrazione di questa festa." }
+    ]
+  },
+  {
+    "nome": "ROBOAMO",
+    "indizi": [
+      { "corretto": "PESANTE", "errato": "LEGGERO", "spiegazione": "Promise di rendere il giogo del popolo più duro di quello di suo padre." },
+      { "corretto": "GIOVANI", "errato": "ANZIANI", "spiegazione": "Scelse di seguire il consiglio dei suoi amici coetanei invece dei saggi." },
+      { "corretto": "SALOMONE", "errato": "DAVIDE", "spiegazione": "Era il figlio di questo re famoso per la sua sapienza." },
+      { "corretto": "DUE", "errato": "DIECI", "spiegazione": "Il numero di tribù che rimasero fedeli al suo regno (Giuda e Beniamino)." },
+      { "corretto": "SICHEM", "errato": "BETEL", "spiegazione": "La città dove tutto il popolo si radunò per incoronarlo." }
+    ]
+  },
+  {
+    "nome": "MOGLIE DI GIOBBE",
+    "indizi": [
+      { "corretto": "MALEDICI", "errato": "LODA", "spiegazione": "La parola terribile che rivolse al marito durante la prova." },
+      { "corretto": "DIECE", "errato": "TRE", "spiegazione": "Il numero di figli che perse tragicamente in un solo giorno." },
+      { "corretto": "INTEGRITA", "errato": "RICCHEZZA", "spiegazione": "Chiese a Giobbe perché continuasse a mantenere questa qualità." },
+      { "corretto": "STOLTE", "errato": "SAGGE", "spiegazione": "Giobbe le rispose che parlava come una di queste donne." },
+      { "corretto": "SILENZIO", "errato": "CANTI", "spiegazione": "Inizialmente rimase accanto a lui in silenzio per sette giorni." }
+    ]
+  },
+  {
+    "nome": "TAVOLA DEL PANE",
+    "indizi": [
+      { "corretto": "DODICI", "errato": "SETTE", "spiegazione": "Il numero di pagnotte poste sopra ogni sabato." },
+      { "corretto": "ORO", "errato": "BRONZO", "spiegazione": "Era di legno d'acacia rivestito di questo metallo prezioso." },
+      { "corretto": "PRESENZA", "errato": "OFFERTA", "spiegazione": "Il pane era chiamato 'pane della presenza' o 'pani di proposizione'." },
+      { "corretto": "NORD", "errato": "SUD", "spiegazione": "La sua posizione all'interno del Luogo Santo." },
+      { "corretto": "SACERDOTI", "errato": "POPOLO", "spiegazione": "Solo loro potevano mangiare il pane rimosso dalla tavola." }
+    ]
+  },
+  {
+    "nome": "BETEL",
+    "indizi": [
+      { "corretto": "SCALA", "errato": "PORTA", "spiegazione": "Giacobbe sognò qui una scala che arrivava fino al cielo." },
+      { "corretto": "PIETRA", "errato": "LEGNO", "spiegazione": "Giacobbe usò una di queste come cuscino e poi come stele." },
+      { "corretto": "CASA", "errato": "TEMPIO", "spiegazione": "Il nome Betel significa letteralmente 'Casa di Dio'." },
+      { "corretto": "OLIO", "errato": "ACQUA", "spiegazione": "Giacobbe lo versò sulla pietra per consacrare il luogo." },
+      { "corretto": "LUZ", "errato": "AI", "spiegazione": "Il nome originario della città prima dell'intervento di Giacobbe." }
+    ]
+  },
+  {
+    "nome": "SERPENTE DI RAME",
+    "indizi": [
+      { "corretto": "SGUARDO", "errato": "TOCO", "spiegazione": "Bastava guardarlo per guarire dal morso dei serpenti velenosi." },
+      { "corretto": "MOSE", "errato": "ARONNE", "spiegazione": "L'uomo a cui Dio ordinò di fabbricarlo." },
+      { "corretto": "ASTA", "errato": "ALTARE", "spiegazione": "Il supporto su cui doveva essere innalzato." },
+      { "corretto": "EZECHIA", "errato": "GIOSUÈ", "spiegazione": "Il re fedele che lo distrusse quando divenne oggetto d'idolatria." },
+      { "corretto": "GESÙ", "errato": "PIETRO", "spiegazione": "Paragonò se stesso a questo oggetto innalzato nel deserto." }
+    ]
+  },
+  {
+    "nome": "MANASSE",
+    "indizi": [
+      { "corretto": "LUNGO", "errato": "BREVE", "spiegazione": "Ebbe il regno più lungo di tutti i re di Giuda (55 anni)." },
+      { "corretto": "PENTIMENTO", "errato": "FUGA", "spiegazione": "Si umiliò profondamente mentre era prigioniero a Babilonia." },
+      { "corretto": "IDOLI", "errato": "MURA", "spiegazione": "Riempì Gerusalemme di altari pagani perfino nel tempio." },
+      { "corretto": "SANGUE", "errato": "ORO", "spiegazione": "La Bibbia dice che sparse moltissimo sangue innocente." },
+      { "corretto": "EZECHIA", "errato": "GIOSIA", "spiegazione": "Era il figlio del re fedele che aveva eliminato l'idolatria." }
+    ]
   }
 ]
+  
