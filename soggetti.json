@@ -268,5 +268,155 @@
       { "corretto": "IDOLI", "errato": "MURA", "spiegazione": "Fece distruggere tutti gli altari pagani." },
       { "corretto": "MEGIDDO", "errato": "IERICO", "spiegazione": "La località dove fu ferito a morte in battaglia." }
     ]
-      }
+      },
+  {
+    "nome": "UZZIA",
+    "indizi": [
+      { "corretto": "INCENSO", "errato": "SANGUE", "spiegazione": "Peccò tentando di offrirlo sull'altare, compito riservato ai sacerdoti." },
+      { "corretto": "LEBBRA", "errato": "CECITA", "spiegazione": "La malattia che lo colpì immediatamente sulla fronte per la sua presunzione." },
+      { "corretto": "MACCHINE", "errato": "CARRI", "spiegazione": "Fece inventare congegni bellici per scagliare frecce e grosse pietre." },
+      { "corretto": "AZARIA", "errato": "AMASIA", "spiegazione": "Il sacerdote che ebbe il coraggio di affrontarlo nel tempio." },
+      { "corretto": "ISOLAMENTO", "errato": "ESILIO", "spiegazione": "Dovette vivere in una casa separata fino al giorno della sua morte." }
+    ]
+  },
+  {
+    "nome": "GIUSEPPE D'ARIMATEA",
+    "indizi": [
+      { "corretto": "SEPOLCRO", "errato": "CASA", "spiegazione": "Offrì la sua tomba nuova scavata nella roccia per Gesù." },
+      { "corretto": "PILATO", "errato": "ERODE", "spiegazione": "Andò coraggiosamente da lui per chiedere il corpo di Cristo." },
+      { "corretto": "SINEDRIO", "errato": "ESERCITO", "spiegazione": "Era un membro stimato di questo consiglio religioso." },
+      { "corretto": "OCCULTO", "errato": "PUBBLICO", "spiegazione": "Inizialmente era un discepolo segreto per timore dei Giudei." },
+      { "corretto": "LINO", "errato": "SETA", "spiegazione": "Comprò un panno di questo materiale per avvolgere il corpo." }
+    ]
+  },
+  {
+    "nome": "SODOMA",
+    "indizi": [
+      { "corretto": "ZOLFO", "errato": "ACQUA", "spiegazione": "Insieme al fuoco, piovve dal cielo per distruggere la città." },
+      { "corretto": "LOT", "errato": "ISACCO", "spiegazione": "L'uomo giusto che viveva lì e fu avvertito dagli angeli." },
+      { "corretto": "SALE", "errato": "SABBIA", "spiegazione": "La moglie di Lot divenne una colonna di questo materiale guardandosi indietro." },
+      { "corretto": "ZOAR", "errato": "UR", "spiegazione": "La piccola città dove Lot ottenne il permesso di rifugiarsi." },
+      { "corretto": "OSPITALITA", "errato": "COMMERCIO", "spiegazione": "La città fu punita anche per la sua grave mancanza di riguardo verso gli ospiti." }
+    ]
+  },
+  {
+    "nome": "BALAAM",
+    "indizi": [
+      { "corretto": "ASINA", "errato": "CAMMELLO", "spiegazione": "L'animale che parlò miracolosamente per rimproverarlo." },
+      { "corretto": "MALEDIZIONE", "errato": "GUERRA", "spiegazione": "Il re Balac lo aveva assoldato per scagliarla contro Israele." },
+      { "corretto": "BENEDIZIONE", "errato": "SILENZIO", "spiegazione": "Ogni volta che provava a maledire, Dio trasformava le parole in questo." },
+      { "corretto": "ANGELO", "errato": "PROFETA", "spiegazione": "Si parò sulla strada con una spada sguainata per fermarlo." },
+      { "corretto": "PEOR", "errato": "SINAI", "spiegazione": "Il monte da cui cercò di vedere l'accampamento d'Israele." }
+    ]
+  },
+  {
+    "nome": "MANNA",
+    "indizi": [
+      { "corretto": "CORIANDOLO", "errato": "GRANO", "spiegazione": "La Bibbia ne descrive i semi simili a questa pianta." },
+      { "corretto": "RUGIADA", "errato": "PIOGGIA", "spiegazione": "Appariva al mattino dopo che questa era evaporata." },
+      { "corretto": "OMER", "errato": "SICLO", "spiegazione": "La misura specifica che ogni israelita doveva raccogliere al giorno." },
+      { "corretto": "VERMI", "errato": "MUFFA", "spiegazione": "Ciò che appariva se veniva conservata oltre il necessario (tranne il sabato)." },
+      { "corretto": "CELESTE", "errato": "TERRENA", "spiegazione": "I Salmi la definiscono 'il pane dei potenti' o 'pane del cielo'." }
+    ]
+  },
+  {
+    "nome": "GABAONITI",
+    "indizi": [
+      { "corretto": "ASTUZIA", "errato": "FORZA", "spiegazione": "Ingannarono Giosuè fingendo di venire da un paese lontano." },
+      { "corretto": "PANE", "errato": "CARNE", "spiegazione": "Portarono provviste secche e muffite per avvalorare il racconto." },
+      { "corretto": "SANDALI", "errato": "MANTELLI", "spiegazione": "Indossavano calzature vecchie e rattoppate per sembrare esausti." },
+      { "corretto": "TAGLIATORI", "errato": "PASTORI", "spiegazione": "Divennero raccoglitori di legna e attingitori d'acqua." },
+      { "corretto": "PATTO", "errato": "TRIBUTO", "spiegazione": "Riuscirono a stringere un accordo solenne che li salvò." }
+    ]
+  },
+  {
+    "nome": "MONTE ERMON",
+    "indizi": [
+      { "corretto": "RUGIADA", "errato": "PIOGGIA", "spiegazione": "Il Salmo 133 paragona l'unità dei fratelli a questa sua frescura." },
+      { "corretto": "NEVE", "errato": "SABBIA", "spiegazione": "Le sue vette sono spesso innevate, essendo il monte più alto della regione." },
+      { "corretto": "SION", "errato": "SINAI", "spiegazione": "La sua rugiada scende simbolicamente sopra i monti di Sion." },
+      { "corretto": "NORD", "errato": "SUD", "spiegazione": "Segna il confine settentrionale della Terra Promessa." },
+      { "corretto": "TRASFIGURAZIONE", "errato": "ASCENSIONE", "spiegazione": "Si ritiene sia il luogo dove Gesù cambiò aspetto davanti a tre apostoli." }
+    ]
+  },
+  {
+    "nome": "ASTA DI RAME",
+    "indizi": [
+      { "corretto": "SERPENTE", "errato": "COLOMBA", "spiegazione": "L'immagine metallica che Mosè dovette porre in cima." },
+      { "corretto": "MORSO", "errato": "FEBBRE", "spiegazione": "Chiunque veniva colpito doveva guardarla per restare in vita." },
+      { "corretto": "DESERTO", "errato": "TEMPIO", "spiegazione": "Il luogo dove fu innalzata durante il cammino d'Israele." },
+      { "corretto": "EZECHIA", "errato": "GOSUE", "spiegazione": "Il re che secoli dopo la fece a pezzi perché il popolo la adorava." },
+      { "corretto": "NEUSTAN", "errato": "MANNA", "spiegazione": "Il nome dispregiativo (pezzo di rame) dato all'oggetto." }
+    ]
+  },
+  {
+    "nome": "POZZO DI GIACOBBE",
+    "indizi": [
+      { "corretto": "SICAR", "errato": "IERICO", "spiegazione": "La città della Samaria dove si trovava il pozzo." },
+      { "corretto": "SESTA", "errato": "NONA", "spiegazione": "L'ora del giorno (mezzogiorno) in cui Gesù vi si sedette." },
+      { "corretto": "SAMARITANA", "errato": "FENICIA", "spiegazione": "La donna a cui Gesù chiese da bere." },
+      { "corretto": "ACQUA VIVA", "errato": "VINO", "spiegazione": "Il dono spirituale che Gesù offrì alla donna." },
+      { "corretto": "PROFONDO", "errato": "SECCO", "spiegazione": "La donna fece notare che Gesù non aveva nulla per attingere." }
+    ]
+  },
+  {
+    "nome": "VALLE DI BERACA",
+    "indizi": [
+      { "corretto": "BENEDIZIONE", "errato": "PIANTO", "spiegazione": "Il significato letterale del nome della valle." },
+      { "corretto": "GIOSAFAT", "errato": "DAVIDE", "spiegazione": "Il re che vi radunò il popolo per lodare Dio dopo la vittoria." },
+      { "corretto": "BOTTINO", "errato": "ARMI", "spiegazione": "Gli israeliti impiegarono tre giorni per raccoglierlo tutto." },
+      { "corretto": "CANTI", "errato": "SPADE", "spiegazione": "Il re pose i cantori in testa all'esercito prima dello scontro." },
+      { "corretto": "TRE", "errato": "SETTE", "spiegazione": "I popoli nemici alleati che si distrussero a vicenda." }
+    ]
+  },
+  {
+    "nome": "SINAGOGA",
+    "indizi": [
+      { "corretto": "SABBATO", "errato": "PASQUA", "spiegazione": "Il giorno in cui Gesù vi entrava abitualmente per insegnare." },
+      { "corretto": "ROTOLO", "errato": "LIBRO", "spiegazione": "L'oggetto che veniva consegnato per la lettura pubblica." },
+      { "corretto": "NAZARETH", "errato": "BETLEMME", "spiegazione": "La città dove Gesù fu cacciato dopo aver letto Isaia." },
+      { "corretto": "MOSE", "errato": "DAVIDE", "spiegazione": "I capi religiosi sedevano sulla 'cattedra' di questo legislatore." },
+      { "corretto": "ASSEMBLEA", "errato": "SACRIFICIO", "spiegazione": "Il termine greco indica il raduno delle persone." }
+    ]
+  },
+  {
+    "nome": "CITTÀ DI RIFUGIO",
+    "indizi": [
+      { "corretto": "SEI", "errato": "DODICI", "spiegazione": "Il numero totale di queste città istituite in Israele." },
+      { "corretto": "OMICIDA", "errato": "LADRO", "spiegazione": "Chi uccideva involontariamente poteva trovarvi protezione." },
+      { "corretto": "LEVITI", "errato": "RE", "spiegazione": "Le città appartenevano a questa tribù incaricata dell'istruzione." },
+      { "corretto": "MORTE", "errato": "NASCITA", "spiegazione": "Il fuggiasco doveva restare lì fino a quella del Sommo Sacerdote." },
+      { "corretto": "STRADE", "errato": "MURA", "spiegazione": "Dovevano essere tenute libere e segnalate per facilitare la fuga." }
+    ]
+  },
+  {
+    "nome": "MONTE TABOR",
+    "indizi": [
+      { "corretto": "DEBORA", "errato": "ESTER", "spiegazione": "La profetessa che ordinò di radunare l'esercito su questo monte." },
+      { "corretto": "BARAC", "errato": "GEDEONE", "spiegazione": "Il condottiero che guidò i 10.000 uomini giù dal monte." },
+      { "corretto": "SISERA", "errato": "AMAN", "spiegazione": "Il nemico che fu sconfitto ai piedi della montagna." },
+      { "corretto": "ISSACHAR", "errato": "GIUDA", "spiegazione": "Il territorio della tribù dove sorge il monte." },
+      { "corretto": "ISOLATO", "errato": "CATENA", "spiegazione": "Si distingue per la sua forma a cupola che svetta solitaria." }
+    ]
+  },
+  {
+    "nome": "NINIVE",
+    "indizi": [
+      { "corretto": "TRE", "errato": "SETTE", "spiegazione": "I giorni necessari per attraversarla tutta a piedi secondo Giona." },
+      { "corretto": "SACCO", "errato": "CENERE", "spiegazione": "Ciò che indossarono gli abitanti in segno di pentimento." },
+      { "corretto": "ANIMALI", "errato": "PIANTE", "spiegazione": "Giona si stupì che Dio volesse risparmiare anche loro." },
+      { "corretto": "SANGUE", "errato": "ORO", "spiegazione": "I profeti la definirono 'la città di spargimento di sangue'." },
+      { "corretto": "ASSIRIA", "errato": "BABILONIA", "spiegazione": "La capitale del potente e crudele impero del nord." }
+    ]
+  },
+  {
+    "nome": "MARE DI VETRO",
+    "indizi": [
+      { "corretto": "CRISTALLO", "errato": "ORO", "spiegazione": "Giovanni lo vide limpido come questa pietra davanti al trono." },
+      { "corretto": "RIVELAZIONE", "errato": "GENESI", "spiegazione": "Il libro biblico dove viene descritta questa visione celeste." },
+      { "corretto": "VINCITORI", "errato": "ANGELI", "spiegazione": "Coloro che sconfiggono la bestia selvatica stanno in piedi su di esso." },
+      { "corretto": "ARPE", "errato": "TROMBE", "spiegazione": "Gli strumenti musicali che i fedeli tengono in mano." },
+      { "corretto": "CANTO", "errato": "SILENZIO", "spiegazione": "Ciò che eseguono coloro che si trovano in questa posizione gloriosa." }
+    ]
+  }
 ]
