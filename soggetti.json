@@ -1,40 +1,36 @@
 [
   {
-    "nome": "BEZALEL",
+    "nome": "DANTE ALIGHIERI",
     "indizi": [
-      { "corretto": "SPIRITO", "errato": "ARGENTO", "spiegazione": "Esodo 31:3" },
-      { "corretto": "URI", "errato": "ARONNE", "spiegazione": "Esodo 31:2" },
-      { "corretto": "GIUDA", "errato": "LEVI", "spiegazione": "Esodo 31:2" },
-      { "corretto": "TABERNACOLO", "errato": "TEMPIO", "spiegazione": "Esodo 31:7" },
-      { "corretto": "OOLIAB", "errato": "MIRIAM", "spiegazione": "Esodo 31:6" }
+      { "corretto": "FIRENZE", "errato": "ROMA", "spiegazione": "È la sua città natale." },
+      { "corretto": "BEATRICE", "errato": "LAURA", "spiegazione": "La donna amata e musa ispiratrice." },
+      { "corretto": "INFERNO", "errato": "PURGATORIO", "spiegazione": "La prima e più celebre cantica della Commedia." },
+      { "corretto": "POETA", "errato": "PITTORE", "spiegazione": "È considerato il sommo poeta." },
+      { "corretto": "TERZINA", "errato": "OTTAVA", "spiegazione": "Lo schema metrico usato nella Divina Commedia." }
     ]
   },
   {
-    "nome": "ELIM",
+    "nome": "PIZZA",
     "indizi": [
-      { "corretto": "SETTANTA", "errato": "CENTO", "spiegazione": "Esodo 15:27" },
-      { "corretto": "DODICI", "errato": "DIECI", "spiegazione": "Esodo 15:27" },
-      { "corretto": "PALME", "errato": "CEDRI", "spiegazione": "Esodo 15:27" },
-      { "corretto": "SORGENTI", "errato": "POZZI", "spiegazione": "Esodo 15:27" },
-      { "corretto": "DESERTO", "errato": "EGITTO", "spiegazione": "Esodo 16:1" }
+      { "corretto": "MARGHERITA", "errato": "ROSA", "spiegazione": "La versione più classica con pomodoro e mozzarella." },
+      { "corretto": "FORNO", "errato": "FRIGO", "spiegazione": "Si cuoce rigorosamente a temperature elevate." },
+      { "corretto": "NAPOLI", "errato": "MILANO", "spiegazione": "La città dove è nata la vera pizza." },
+      { "corretto": "LIEVITO", "errato": "SALE", "spiegazione": "Fondamentale per far crescere l'impasto." },
+      { "corretto": "BASILICO", "errato": "PREZZEMOLO", "spiegazione": "La foglia verde che completa la margherita." }
     ]
   },
   {
-    "nome": "EBED-MELECH",
+    "nome": "LUNA",
     "indizi": [
-      { "corretto": "ETIOPE", "errato": "EGIZIANO", "spiegazione": "Geremia 38:7" },
-      { "corretto": "CISTERNA", "errato": "TORRE", "spiegazione": "Geremia 38:13" },
-      { "corretto": "STRACCI", "errato": "CORDE", "spiegazione": "Geremia 38:11" },
-      { "corretto": "EUNUCO", "errato": "SACERDOTE", "spiegazione": "Geremia 38:7" },
-      { "corretto": "ZEDECHIA", "errato": "IOSIA", "spiegazione": "Geremia 38:7" }
+      { "corretto": "SATELLITE", "errato": "PIANETA", "spiegazione": "È l'unico satellite naturale della Terra." },
+      { "corretto": "MAREE", "errato": "VENTI", "spiegazione": "La sua forza di gravità influenza gli oceani." },
+      { "corretto": "CRATERI", "errato": "MONTAGNE", "spiegazione": "La sua superficie è costellata di buchi da impatto." },
+      { "corretto": "ARMSTRONG", "errato": "GAGARIN", "spiegazione": "Il primo uomo ad averci camminato sopra." },
+      { "corretto": "NOTTE", "errato": "GIORNO", "spiegazione": "Quando brilla di più nel cielo." }
     ]
-  },
-  {
-    "nome": "MEFIBOSET",
-    "indizi": [
-      { "corretto": "ZIBA", "errato": "DOEG", "spiegazione": "2 Samuele 9:2" },
-      { "corretto": "CADUTA", "errato": "SPADA", "spiegazione": "2 Samuele 4:4" },
-      { "corretto": "GIONATAN", "errato": "ABNER", "spiegazione": "2 Samuele 9:1" },
+  }
+]
+{ "corretto": "GIONATAN", "errato": "ABNER", "spiegazione": "2 Samuele 9:1" },
       { "corretto": "LOPEDEBAR", "errato": "BETLEMME", "spiegazione": "2 Samuele 9:4" },
       { "corretto": "MENSA", "errato": "CAMPO", "spiegazione": "2 Samuele 9:7" }
     ]
