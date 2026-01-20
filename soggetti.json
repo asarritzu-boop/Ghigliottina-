@@ -1,0 +1,430 @@
+[
+  {
+    "nome": "BEZALEL",
+    "indizi": [
+      { "corretto": "SPIRITO", "errato": "ARGENTO", "spiegazione": "Esodo 31:3" },
+      { "corretto": "URI", "errato": "ARONNE", "spiegazione": "Esodo 31:2" },
+      { "corretto": "GIUDA", "errato": "LEVI", "spiegazione": "Esodo 31:2" },
+      { "corretto": "TABERNACOLO", "errato": "TEMPIO", "spiegazione": "Esodo 31:7" },
+      { "corretto": "OOLIAB", "errato": "MIRIAM", "spiegazione": "Esodo 31:6" }
+    ]
+  },
+  {
+    "nome": "ELIM",
+    "indizi": [
+      { "corretto": "SETTANTA", "errato": "CENTO", "spiegazione": "Esodo 15:27" },
+      { "corretto": "DODICI", "errato": "DIECI", "spiegazione": "Esodo 15:27" },
+      { "corretto": "PALME", "errato": "CEDRI", "spiegazione": "Esodo 15:27" },
+      { "corretto": "SORGENTI", "errato": "POZZI", "spiegazione": "Esodo 15:27" },
+      { "corretto": "DESERTO", "errato": "EGITTO", "spiegazione": "Esodo 16:1" }
+    ]
+  },
+  {
+    "nome": "EBED-MELECH",
+    "indizi": [
+      { "corretto": "ETIOPE", "errato": "EGIZIANO", "spiegazione": "Geremia 38:7" },
+      { "corretto": "CISTERNA", "errato": "TORRE", "spiegazione": "Geremia 38:13" },
+      { "corretto": "STRACCI", "errato": "CORDE", "spiegazione": "Geremia 38:11" },
+      { "corretto": "EUNUCO", "errato": "SACERDOTE", "spiegazione": "Geremia 38:7" },
+      { "corretto": "ZEDECHIA", "errato": "IOSIA", "spiegazione": "Geremia 38:7" }
+    ]
+  },
+  {
+    "nome": "MEFIBOSET",
+    "indizi": [
+      { "corretto": "ZIBA", "errato": "DOEG", "spiegazione": "2 Samuele 9:2" },
+      { "corretto": "CADUTA", "errato": "SPADA", "spiegazione": "2 Samuele 4:4" },
+      { "corretto": "GIONATAN", "errato": "ABNER", "spiegazione": "2 Samuele 9:1" },
+      { "corretto": "LOPEDEBAR", "errato": "BETLEMME", "spiegazione": "2 Samuele 9:4" },
+      { "corretto": "MENSA", "errato": "CAMPO", "spiegazione": "2 Samuele 9:7" }
+    ]
+  },
+  {
+    "nome": "URIM E TUMMIM",
+    "indizi": [
+      { "corretto": "PETTORALE", "errato": "EFOD", "spiegazione": "Esodo 28:30" },
+      { "corretto": "SORTE", "errato": "SOGNO", "spiegazione": "1 Samuele 28:6" },
+      { "corretto": "SACERDOTE", "errato": "RE", "spiegazione": "Esdra 2:63" },
+      { "corretto": "GIUDIZIO", "errato": "LEGGE", "spiegazione": "Numeri 27:21" },
+      { "corretto": "ELEAZARO", "errato": "GAD", "spiegazione": "Numeri 27:21" }
+    ]
+  },
+  {
+    "nome": "ADRAMELEC",
+    "indizi": [
+      { "corretto": "SENNACERIB", "errato": "SARGON", "spiegazione": "2 Re 19:37" },
+      { "corretto": "NISROC", "errato": "BAAL", "spiegazione": "Isaia 37:38" },
+      { "corretto": "ARARAT", "errato": "BABILONIA", "spiegazione": "2 Re 19:37" },
+      { "corretto": "FIGLIO", "errato": "SERVO", "spiegazione": "2 Re 19:37" },
+      { "corretto": "SPADA", "errato": "VELENO", "spiegazione": "Isaia 37:38" }
+    ]
+  },
+  {
+    "nome": "MELCHISEDEC",
+    "indizi": [
+      { "corretto": "SALEM", "errato": "EBROUN", "spiegazione": "Genesi 14:18" },
+      { "corretto": "PANE", "errato": "CARNE", "spiegazione": "Genesi 14:18" },
+      { "corretto": "GENEALOGIA", "errato": "PROFEZIA", "spiegazione": "Ebrei 7:3" },
+      { "corretto": "DECIMA", "errato": "OFFERTA", "spiegazione": "Ebrei 7:2" },
+      { "corretto": "GIUSTIZIA", "errato": "SAPIENZA", "spiegazione": "Ebrei 7:2" }
+    ]
+  },
+  {
+    "nome": "MOLOC",
+    "indizi": [
+      { "corretto": "MILCOM", "errato": "DAGON", "spiegazione": "1 Re 11:5" },
+      { "corretto": "FUOCO", "errato": "ACQUA", "spiegazione": "Levitico 18:21" },
+      { "corretto": "AMMONITI", "errato": "MOABITI", "spiegazione": "1 Re 11:7" },
+      { "corretto": "TOPET", "errato": "SINAI", "spiegazione": "2 Re 23:10" },
+      { "corretto": "HINNOM", "errato": "GIORDANO", "spiegazione": "Geremia 32:35" }
+    ]
+  },
+  {
+    "nome": "ACAN",
+    "indizi": [
+      { "corretto": "CARMI", "errato": "ZABDI", "spiegazione": "Giosuè 7:1" },
+      { "corretto": "MANTELLO", "errato": "SCUDO", "spiegazione": "Giosuè 7:21" },
+      { "corretto": "Sinar", "errato": "EGITTO", "spiegazione": "Giosuè 7:21" },
+      { "corretto": "ACOR", "errato": "AI", "spiegazione": "Giosuè 7:24" },
+      { "corretto": "PIETRE", "errato": "SPADA", "spiegazione": "Giosuè 7:25" }
+    ]
+  },
+  {
+    "nome": "GABAONITI",
+    "indizi": [
+      { "corretto": "ASTUZIA", "errato": "FORZA", "spiegazione": "Giosuè 9:3" },
+      { "corretto": "SACCHI", "errato": "TENDE", "spiegazione": "Giosuè 9:4" },
+      { "corretto": "OTRI", "errato": "ANFORE", "spiegazione": "Giosuè 9:4" },
+      { "corretto": "MUFFA", "errato": "MIELE", "spiegazione": "Giosuè 9:5" },
+      { "corretto": "LEGNA", "errato": "PIETRE", "spiegazione": "Giosuè 9:21" }
+    ]
+  },
+  {
+    "nome": "EGLON",
+    "indizi": [
+      { "corretto": "MOAB", "errato": "EDOM", "spiegazione": "Giudici 3:12" },
+      { "corretto": "GRASSO", "errato": "ALTO", "spiegazione": "Giudici 3:17" },
+      { "corretto": "EHUD", "errato": "GIDEONE", "spiegazione": "Giudici 3:15" },
+      { "corretto": "CAMERA", "errato": "TERRAZZA", "spiegazione": "Giudici 3:20" },
+      { "corretto": "MANCINO", "errato": "GIGANTE", "spiegazione": "Giudici 3:15" }
+    ]
+  },
+  {
+    "nome": "SAMGAR",
+    "indizi": [
+      { "corretto": "ANAT", "errato": "GIARE", "spiegazione": "Giudici 3:31" },
+      { "corretto": "PUNGOLO", "errato": "FRONDA", "spiegazione": "Giudici 3:31" },
+      { "corretto": "FILISTEI", "errato": "MADIANITI", "spiegazione": "Giudici 3:31" },
+      { "corretto": "SEICENTO", "errato": "MILLE", "spiegazione": "Giudici 3:31" },
+      { "corretto": "BUE", "errato": "ASINO", "spiegazione": "Giudici 3:31" }
+    ]
+  },
+  {
+    "nome": "IAEL",
+    "indizi": [
+      { "corretto": "TENDA", "errato": "CASA", "spiegazione": "Giudici 4:17" },
+      { "corretto": "PICCHETTO", "errato": "COLTELLO", "spiegazione": "Giudici 4:21" },
+      { "corretto": "LATTE", "errato": "VINO", "spiegazione": "Giudici 4:19" },
+      { "corretto": "SISERA", "errato": "IABIN", "spiegazione": "Giudici 4:17" },
+      { "corretto": "EBER", "errato": "CHEBER", "spiegazione": "Giudici 4:17" }
+    ]
+  },
+  {
+    "nome": "BARZILLAI",
+    "indizi": [
+      { "corretto": "GALAAD", "errato": "GIUDA", "spiegazione": "2 Samuele 19:31" },
+      { "corretto": "ROGELLIM", "errato": "BETLEMME", "spiegazione": "2 Samuele 19:31" },
+      { "corretto": "OTTANTA", "errato": "CENTO", "spiegazione": "2 Samuele 19:32" },
+      { "corretto": "CHIMAM", "errato": "ZIBA", "spiegazione": "2 Samuele 19:37" },
+      { "corretto": "MIELE", "errato": "ACQUA", "spiegazione": "2 Samuele 17:29" }
+    ]
+  },
+  {
+    "nome": "NABOT",
+    "indizi": [
+      { "corretto": "VIGNA", "errato": "ULIVETO", "spiegazione": "1 Re 21:1" },
+      { "corretto": "IZREEL", "errato": "SAMARIA", "spiegazione": "1 Re 21:1" },
+      { "corretto": "EREDITA", "errato": "SOLDI", "spiegazione": "1 Re 21:3" },
+      { "corretto": "PIETRE", "errato": "FUOCO", "spiegazione": "1 Re 21:13" },
+      { "corretto": "DIGIUNO", "errato": "FESTA", "spiegazione": "1 Re 21:12" }
+    ]
+  },
+  {
+    "nome": "ATALIA",
+    "indizi": [
+      { "corretto": "OMRI", "errato": "IOSIA", "spiegazione": "2 Re 8:26" },
+      { "corretto": "STERMINIO", "errato": "ESILIO", "spiegazione": "2 Re 11:1" },
+      { "corretto": "IOAS", "errato": "ACAZIA", "spiegazione": "2 Re 11:2" },
+      { "corretto": "IOIADA", "errato": "ELISEO", "spiegazione": "2 Re 11:4" },
+      { "corretto": "CAVALLI", "errato": "PECORE", "spiegazione": "2 Re 11:16" }
+    ]
+  },
+  {
+    "nome": "GEAZI",
+    "indizi": [
+      { "corretto": "NAAMAN", "errato": "BEN-HADAD", "spiegazione": "2 Re 5:20" },
+      { "corretto": "LEBBRA", "errato": "CECITÀ", "spiegazione": "2 Re 5:27" },
+      { "corretto": "TALENTI", "errato": "SICLE", "spiegazione": "2 Re 5:22" },
+      { "corretto": "MENZOGNA", "errato": "FURTO", "spiegazione": "2 Re 5:25" },
+      { "corretto": "NEVE", "errato": "LANA", "spiegazione": "2 Re 5:27" }
+    ]
+  },
+  {
+    "nome": "UZIA",
+    "indizi": [
+      { "corretto": "AZARIA", "errato": "AMAZIA", "spiegazione": "2 Cronache 26:1" },
+      { "corretto": "INCENSO", "errato": "SANGUE", "spiegazione": "2 Cronache 26:16" },
+      { "corretto": "LEBBRA", "errato": "MORTE", "spiegazione": "2 Cronache 26:19" },
+      { "corretto": "MACCHINE", "errato": "CARRI", "spiegazione": "2 Cronache 26:15" },
+      { "corretto": "TORRI", "errato": "MURA", "spiegazione": "2 Cronache 26:10" }
+    ]
+  },
+  {
+    "nome": "IEU",
+    "indizi": [
+      { "corretto": "FOLLIA", "errato": "RABBIA", "spiegazione": "2 Re 9:20" },
+      { "corretto": "CARRO", "errato": "CAVALLO", "spiegazione": "2 Re 9:20" },
+      { "corretto": "IZREEL", "errato": "GERUSALEMME", "spiegazione": "2 Re 9:16" },
+      { "corretto": "IZEBEL", "errate": "ATALIA", "spiegazione": "2 Re 9:30" },
+      { "corretto": "BAAL", "errate": "ASTARTE", "spiegazione": "2 Re 10:28" }
+    ]
+  },
+  {
+    "nome": "TERSATA",
+    "indizi": [
+      { "corretto": "TITOLO", "errato": "NOME", "spiegazione": "Esdra 2:63" },
+      { "corretto": "NEEMIA", "errato": "ESDRA", "spiegazione": "Neemia 8:9" },
+      { "corretto": "DRAMME", "errato": "TALENTI", "spiegazione": "Neemia 7:70" },
+      { "corretto": "URIM", "errato": "EFOD", "spiegazione": "Esdra 2:63" },
+      { "corretto": "COPPIERE", "errato": "SCRIBA", "spiegazione": "Neemia 1:11" }
+    ]
+  },
+  {
+    "nome": "VASHTI",
+    "indizi": [
+      { "corretto": "SUSA", "errato": "BABILONIA", "spiegazione": "Ester 1:9" },
+      { "corretto": "MEMUCAN", "errato": "AMAN", "spiegazione": "Ester 1:16" },
+      { "corretto": "BELLEZZA", "errato": "SAPIENZA", "spiegazione": "Ester 1:11" },
+      { "corretto": "DECRETO", "errato": "SOGNO", "spiegazione": "Ester 1:19" },
+      { "corretto": "RIFIUTO", "errato": "TRADIMENTO", "spiegazione": "Ester 1:12" }
+    ]
+  },
+  {
+    "nome": "CHERUBINI",
+    "indizi": [
+      { "corretto": "EDEN", "errato": "SINAI", "spiegazione": "Genesi 3:24" },
+      { "corretto": "ORO", "errato": "LEGNO", "spiegazione": "Esodo 25:18" },
+      { "corretto": "ALI", "errato": "SPADE", "spiegazione": "Esodo 25:20" },
+      { "corretto": "ARCA", "errato": "ALTARE", "spiegazione": "Esodo 25:18" },
+      { "corretto": "SPADA", "errato": "SCUDO", "spiegazione": "Genesi 3:24" }
+    ]
+  },
+  {
+    "nome": "EN-DOR",
+    "indizi": [
+      { "corretto": "MEDIUM", "errato": "PROFETA", "spiegazione": "1 Samuele 28:7" },
+      { "corretto": "SAUL", "errato": "DAVIDE", "spiegazione": "1 Samuele 28:7" },
+      { "corretto": "SAMUELE", "errato": "ELIA", "spiegazione": "1 Samuele 28:12" },
+      { "corretto": "MANTELLO", "errato": "CORONA", "spiegazione": "1 Samuele 28:14" },
+      { "corretto": "NOTTE", "errato": "ALBA", "spiegazione": "1 Samuele 28:8" }
+    ]
+  },
+  {
+    "nome": "TERAFIM",
+    "indizi": [
+      { "corretto": "LABANO", "errato": "ESAÙ", "spiegazione": "Genesi 31:19" },
+      { "corretto": "RACHELE", "errato": "LEA", "spiegazione": "Genesi 31:19" },
+      { "corretto": "SELLA", "errato": "TENDA", "spiegazione": "Genesi 31:34" },
+      { "corretto": "CAMMELLO", "errato": "ASINO", "spiegazione": "Genesi 31:34" },
+      { "corretto": "IDOLI", "errato": "GIOIELLI", "spiegazione": "Genesi 31:30" }
+    ]
+  },
+  {
+    "nome": "BOAZ",
+    "indizi": [
+      { "corretto": "BETLEMME", "errato": "GERICO", "spiegazione": "Rut 2:4" },
+      { "corretto": "ELIMELEC", "errato": "NAOMI", "spiegazione": "Rut 2:1" },
+      { "corretto": "CALZARE", "errato": "ANELLO", "spiegazione": "Rut 4:8" },
+      { "corretto": "OBED", "errato": "IESSE", "spiegazione": "Rut 4:17" },
+      { "corretto": "ORZO", "errato": "GRANO", "spiegazione": "Rut 2:17" }
+    ]
+  },
+  {
+    "nome": "BERENICE",
+    "indizi": [
+      { "corretto": "AGRIPPA", "errato": "ERODE", "spiegazione": "Atti 25:13" },
+      { "corretto": "FESTO", "errato": "FELICE", "spiegazione": "Atti 25:13" },
+      { "corretto": "POMPA", "errato": "UMILTA", "spiegazione": "Atti 25:23" },
+      { "corretto": "CESAREA", "errato": "ROMA", "spiegazione": "Atti 25:13" },
+      { "corretto": "PAOLO", "errato": "PIETRO", "spiegazione": "Atti 25:23" }
+    ]
+  },
+  {
+    "nome": "GALLIO",
+    "indizi": [
+      { "corretto": "ACAIA", "errato": "GALAZIA", "spiegazione": "Atti 18:12" },
+      { "corretto": "PROCONSOLE", "errato": "RE", "spiegazione": "Atti 18:12" },
+      { "corretto": "TRIBUNALE", "errato": "SINAGOGA", "spiegazione": "Atti 18:12" },
+      { "corretto": "SOSTENE", "errato": "CRISPO", "spiegazione": "Atti 18:17" },
+      { "corretto": "CORINTO", "errato": "EFESO", "spiegazione": "Atti 18:1" }
+    ]
+  },
+  {
+    "nome": "EPAFRODITO",
+    "indizi": [
+      { "corretto": "FILIPPI", "errato": "COLOSSE", "spiegazione": "Filippesi 2:25" },
+      { "corretto": "MALATTIA", "errato": "CARCERE", "spiegazione": "Filippesi 2:27" },
+      { "corretto": "MESSAGGERO", "errato": "SCRIBA", "spiegazione": "Filippesi 2:25" },
+      { "corretto": "DONO", "errato": "LETTERA", "spiegazione": "Filippesi 4:18" },
+      { "corretto": "RISCHIO", "errato": "PAURA", "spiegazione": "Filippesi 2:30" }
+    ]
+  },
+  {
+    "nome": "ONESIFORO",
+    "indizi": [
+      { "corretto": "EFESO", "errato": "SMIRNE", "spiegazione": "2 Timoteo 1:18" },
+      { "corretto": "ROMA", "errato": "ATENE", "spiegazione": "2 Timoteo 1:17" },
+      { "corretto": "CATENE", "errato": "FAME", "spiegazione": "2 Timoteo 1:16" },
+      { "corretto": "RINFRESCO", "errato": "SOLDI", "spiegazione": "2 Timoteo 1:16" },
+      { "corretto": "CASA", "errato": "CHIESA", "spiegazione": "2 Timoteo 1:16" }
+    ]
+  },
+  {
+    "nome": "LICAONIA",
+    "indizi": [
+      { "corretto": "LISTRA", "errato": "ANTIOCHIA", "spiegazione": "Atti 14:6" },
+      { "corretto": "DERBE", "errato": "ICONIO", "spiegazione": "Atti 14:6" },
+      { "corretto": "ZEUS", "errato": "ARES", "spiegazione": "Atti 14:12" },
+      { "corretto": "ERMES", "errato": "APOLLO", "spiegazione": "Atti 14:12" },
+      { "corretto": "DIALETTO", "errato": "GRECO", "spiegazione": "Atti 14:11" }
+    ]
+  },
+  {
+    "nome": "MILETO",
+    "indizi": [
+      { "corretto": "ANZIANI", "errato": "DIACONI", "spiegazione": "Atti 20:17" },
+      { "corretto": "EFESO", "errato": "TROAS", "spiegazione": "Atti 20:17" },
+      { "corretto": "ADDIO", "errato": "BATTESIMO", "spiegazione": "Atti 20:38" },
+      { "corretto": "PIANTO", "errato": "CANTO", "spiegazione": "Atti 20:37" },
+      { "corretto": "NAVE", "errato": "CARRO", "spiegazione": "Atti 20:38" }
+    ]
+  },
+  {
+    "nome": "AREOPAGO",
+    "indizi": [
+      { "corretto": "ATENE", "errato": "CORINTO", "spiegazione": "Atti 17:16" },
+      { "corretto": "DIONISIO", "errato": "TIMOTEO", "spiegazione": "Atti 17:34" },
+      { "corretto": "IGNOTO", "errato": "GRANDE", "spiegazione": "Atti 17:23" },
+      { "corretto": "DAMARIDE", "errato": "LIDIA", "spiegazione": "Atti 17:34" },
+      { "corretto": "RISURREZIONE", "errato": "LEGGE", "spiegazione": "Atti 17:32" }
+    ]
+  },
+  {
+    "nome": "TABITA",
+    "indizi": [
+      { "corretto": "GAZZELLA", "errato": "COLOMBA", "spiegazione": "Atti 9:36" },
+      { "corretto": "IOPPE", "errato": "LIDDA", "spiegazione": "Atti 9:36" },
+      { "corretto": "VESTE", "errato": "PANE", "spiegazione": "Atti 9:39" },
+      { "corretto": "VEDOVE", "errato": "ORPHANE", "spiegazione": "Atti 9:39" },
+      { "corretto": "PIETRO", "errato": "PAOLO", "spiegazione": "Atti 9:40" }
+    ]
+  },
+  {
+    "nome": "CORNELIO",
+    "indizi": [
+      { "corretto": "CENTURIONE", "errato": "PILOTA", "spiegazione": "Atti 10:1" },
+      { "corretto": "ITALICA", "errato": "ROMANA", "spiegazione": "Atti 10:1" },
+      { "corretto": "CESAREA", "errato": "GERUSALEMME", "spiegazione": "Atti 10:1" },
+      { "corretto": "ELEMOSINE", "errato": "OFFERTE", "spiegazione": "Atti 10:2" },
+      { "corretto": "VISIONE", "errato": "SOGNO", "spiegazione": "Atti 10:3" }
+    ]
+  },
+  {
+    "nome": "FILEMONE",
+    "indizi": [
+      { "corretto": "ONESIMO", "errato": "TITO", "spiegazione": "Filemone 10" },
+      { "corretto": "COLOSSE", "errato": "EFESO", "spiegazione": "Filemone 1" },
+      { "corretto": "SCHIAVO", "errato": "SOLDATO", "spiegazione": "Filemone 16" },
+      { "corretto": "APPIA", "errato": "PRISCA", "spiegazione": "Filemone 2" },
+      { "corretto": "ARCHIPPO", "errato": "DEMAS", "spiegazione": "Filemone 2" }
+    ]
+  },
+  {
+    "nome": "ARISTARCO",
+    "indizi": [
+      { "corretto": "MACEDONIA", "errato": "GALAZIA", "spiegazione": "Atti 19:29" },
+      { "corretto": "TESSALONICA", "errato": "FILIPPI", "spiegazione": "Atti 20:4" },
+      { "corretto": "TEATRO", "errato": "PIAZZA", "spiegazione": "Atti 19:29" },
+      { "corretto": "PRIGIONIERO", "errato": "DELEGATO", "spiegazione": "Colossesi 4:10" },
+      { "corretto": "NAUFRAGIO", "errato": "FUGA", "spiegazione": "Atti 27:2" }
+    ]
+  },
+  {
+    "nome": "PRISCILLA",
+    "indizi": [
+      { "corretto": "AQUILA", "errato": "APOLLOS", "spiegazione": "Atti 18:2" },
+      { "corretto": "TENDE", "errato": "RETI", "spiegazione": "Atti 18:3" },
+      { "corretto": "ROMA", "errato": "ATENE", "spiegazione": "Atti 18:2" },
+      { "corretto": "EFESO", "errato": "MALTA", "spiegazione": "Atti 18:26" },
+      { "corretto": "COLLO", "errato": "MANO", "spiegazione": "Romani 16:4" }
+    ]
+  },
+  {
+    "nome": "APOLLOS",
+    "indizi": [
+      { "corretto": "ALESSANDRIA", "errato": "CIPRO", "spiegazione": "Atti 18:24" },
+      { "corretto": "ELOQUENTE", "errato": "TIMIDO", "spiegazione": "Atti 18:24" },
+      { "corretto": "SCRITTURE", "errato": "LEGGE", "spiegazione": "Atti 18:24" },
+      { "corretto": "SPIRITO", "errato": "ACQUA", "spiegazione": "Atti 18:25" },
+      { "corretto": "CORINTO", "errato": "ROMA", "spiegazione": "1 Corinti 3:6" }
+    ]
+  },
+  {
+    "nome": "EUTICO",
+    "indizi": [
+      { "corretto": "FINESTRA", "errato": "PORTA", "spiegazione": "Atti 20:9" },
+      { "corretto": "SONNO", "errato": "FAME", "spiegazione": "Atti 20:9" },
+      { "corretto": "TROAS", "errato": "MILETO", "spiegazione": "Atti 20:6" },
+      { "corretto": "MEZZANOTTE", "errato": "ALBA", "spiegazione": "Atti 20:7" },
+      { "corretto": "VIVO", "errato": "MORTA", "spiegazione": "Atti 20:12" }
+    ]
+  },
+  {
+    "nome": "MALTA",
+    "indizi": [
+      { "corretto": "NAUFRAGIO", "errato": "TEMPESTA", "spiegazione": "Atti 28:1" },
+      { "corretto": "VIPERA", "errato": "SCORPIONE", "spiegazione": "Atti 28:3" },
+      { "corretto": "FUOCO", "errato": "GROTTA", "spiegazione": "Atti 28:2" },
+      { "corretto": "PUBLIO", "errato": "GIULIO", "spiegazione": "Atti 28:7" },
+      { "corretto": "GENTILEZZA", "errato": "PAURA", "spiegazione": "Atti 28:2" }
+    ]
+  },
+  {
+    "nome": "PATMOS",
+    "indizi": [
+      { "corretto": "GIOVANNI", "errato": "PIETRO", "spiegazione": "Rivelazione 1:9" },
+      { "corretto": "ISOLA", "errato": "MONTE", "spiegazione": "Rivelazione 1:9" },
+      { "corretto": "ESILIO", "errato": "VIAGGIO", "spiegazione": "Rivelazione 1:9" },
+      { "corretto": "SPIRITO", "errato": "SOGNO", "spiegazione": "Rivelazione 1:10" },
+      { "corretto": "PAROLA", "errato": "CHIAVE", "spiegazione": "Rivelazione 1:9" }
+    ]
+  },
+  {
+    "nome": "DIOTREFE",
+    "indizi": [
+      { "corretto": "PRIMATO", "errato": "UMILTA", "spiegazione": "3 Giovanni 9" },
+      { "corretto": "CHIACCHIERE", "errato": "SILENZIO", "spiegazione": "3 Giovanni 10" },
+      { "corretto": "CHIESA", "errato": "TEMPIO", "spiegazione": "3 Giovanni 9" },
+      { "corretto": "ESPELLERRE", "errato": "ACCOGLIERE", "spiegazione": "3 Giovanni 10" },
+      { "corretto": "GAIO", "errato": "DEMETRIO", "spiegazione": "3 Giovanni 1" }
+    ]
+  },
+  {
+    "nome": "GIAIRO",
+    "indizi": [
+      { "corretto": "SINAGOGA", "errato": "SANEDRIN", "spiegazione": "Marco 5:22" },
+      { "corretto": "DODICI", "errato": "DIECI", "spiegazione": "Marco 5:42" },
+      { "corretto": "FIGLIA", "errato": "MOGLIE", "spiegazione": "Marco 5:22" },
+      { "corretto": "TALITHA", "errato": "EFPHATHA", "spiegazione": "Marco 5:41" },
+      { "corretto": "PIANTO", "errato": "FESTA", "spiegazione": "Marco 5:38" }
+    ]
