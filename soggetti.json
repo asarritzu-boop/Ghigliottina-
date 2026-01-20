@@ -618,6 +618,196 @@
       { "corretto": "SANGUE", "errato": "ORO", "spiegazione": "La Bibbia dice che sparse moltissimo sangue innocente." },
       { "corretto": "EZECHIA", "errato": "GIOSIA", "spiegazione": "Era il figlio del re fedele che aveva eliminato l'idolatria." }
     ]
+  },
+    {
+    "nome": "MALTA",
+    "indizi": [
+      { "corretto": "VIPERA", "errato": "SCORPIONE", "spiegazione": "L'animale che morse Paolo appena acceso il fuoco dopo il naufragio." },
+      { "corretto": "NAUFRAGIO", "errato": "TERREMOTO", "spiegazione": "L'evento che portò Paolo e i suoi compagni su quest'isola." },
+      { "corretto": "PUBALIO", "errato": "FESTO", "spiegazione": "L'uomo principale dell'isola che li ospitò con benevolenza." },
+      { "corretto": "INVERNO", "errato": "ESTATE", "spiegazione": "La stagione che i naufraghi trascorsero sull'isola." },
+      { "corretto": "BARBARI", "errato": "GRECI", "spiegazione": "Come venivano chiamati gli abitanti locali nel racconto degli Atti." }
+    ]
+  },
+  {
+    "nome": "BOAZ",
+    "indizi": [
+      { "corretto": "RISCATTATORE", "errato": "GIUDICE", "spiegazione": "Esercitò il diritto di riscatto sposando Rut." },
+      { "corretto": "BETLEMME", "errato": "GERUSALEMME", "spiegazione": "La città dove possedeva i suoi campi di orzo." },
+      { "corretto": "RUTH", "errato": "ESTER", "spiegazione": "La donna moabita che incontrò mentre lei spigolava." },
+      { "corretto": "OBED", "errato": "IESSE", "spiegazione": "Il figlio che ebbe da Rut, futuro nonno di Davide." },
+      { "corretto": "COLONNA", "errato": "ALTARE", "spiegazione": "Il nome di una delle due colonne di bronzo del tempio di Salomone." }
+    ]
+  },
+  {
+    "nome": "TIMOTEO",
+    "indizi": [
+      { "corretto": "LISTRA", "errato": "EFESO", "spiegazione": "La città dove Paolo lo scelse come compagno di viaggio." },
+      { "corretto": "EUNICE", "errato": "LIDIA", "spiegazione": "Il nome di sua madre che gli insegnò le Scritture." },
+      { "corretto": "GRECO", "errato": "ROMANO", "spiegazione": "La nazionalità di suo padre." },
+      { "corretto": "GIOVANE", "errato": "ANZIANO", "spiegazione": "Paolo gli scrisse di non permettere a nessuno di disprezzare la sua giovinezza." },
+      { "corretto": "STOMACO", "errato": "CUORE", "spiegazione": "Paolo gli consigliò di usare un po' di vino per i suoi frequenti disturbi." }
+    ]
+  },
+  {
+    "nome": "GABRIELE",
+    "indizi": [
+      { "corretto": "ZACCARIA", "errato": "GIUSEPPE", "spiegazione": "L'uomo a cui annunciò la nascita di Giovanni Battista nel tempio." },
+      { "corretto": "NAZARETH", "errato": "BETLEMME", "spiegazione": "La città dove apparve a Maria per l'annuncio del Messia." },
+      { "corretto": "DANIELA", "errato": "EZECHIELE", "spiegazione": "Il profeta dell'Antico Testamento a cui spiegò diverse visioni." },
+      { "corretto": "ANGELO", "errato": "RE", "spiegazione": "La sua natura spirituale di messaggero celeste." },
+      { "corretto": "PAURA", "errato": "GIOIA", "spiegazione": "Le prime parole che disse a Maria furono: 'Non aver paura'." }
+    ]
+  },
+  {
+    "nome": "SINAI",
+    "indizi": [
+      { "corretto": "FUOCO", "errato": "ACQUA", "spiegazione": "Il monte ne era coperto quando Geova scese su di esso." },
+      { "corretto": "MOSÈ", "errato": "ELIA", "spiegazione": "L'uomo che salì sulla cima per ricevere la Legge." },
+      { "corretto": "QUARANTA", "errato": "DODICI", "spiegazione": "I giorni che Mosè trascorse sulla montagna senza mangiare né bere." },
+      { "corretto": "TAVOLE", "errato": "ROTOLI", "spiegazione": "L'oggetto su cui Dio scrisse i Dieci Comandamenti." },
+      { "corretto": "RECINTO", "errato": "PONTE", "spiegazione": "Mosè dovette metterne uno attorno al monte perché nessuno lo toccasse." }
+    ]
+  },
+  {
+    "nome": "SARA",
+    "indizi": [
+      { "corretto": "RISO", "errato": "PIANTO", "spiegazione": "La sua reazione segreta quando udì che avrebbe avuto un figlio." },
+      { "corretto": "ISACCO", "errato": "ISMAELE", "spiegazione": "Il figlio che partorì quando aveva novant'anni." },
+      { "corretto": "AGAR", "errato": "LEA", "spiegazione": "La sua serva egiziana che le diede dei problemi." },
+      { "corretto": "BELLA", "errato": "FORTE", "spiegazione": "Nonostante l'età, Abramo temeva che la sua bellezza lo mettesse in pericolo." },
+      { "corretto": "MADRE", "errato": "REGINA", "spiegazione": "Il suo nome fu cambiato da Sarai a Sara, che significa 'Principessa'." }
+    ]
+  },
+  {
+    "nome": "SODOMA",
+    "indizi": [
+      { "corretto": "ZOLFO", "errato": "SABBIA", "spiegazione": "La sostanza che piovve dal cielo insieme al fuoco." },
+      { "corretto": "LOT", "errato": "ESAÙ", "spiegazione": "L'uomo giusto che viveva lì con la sua famiglia." },
+      { "corretto": "SALE", "errato": "PIETRA", "spiegazione": "Ciò in cui si trasformò la moglie di Lot guardando indietro." },
+      { "corretto": "ZOAR", "errato": "UR", "spiegazione": "La piccola città dove Lot si rifugiò per salvarsi." },
+      { "corretto": "OSPITI", "errato": "MERCANTI", "spiegazione": "Gli abitanti volevano abusare di quelli arrivati a casa di Lot." }
+    ]
+  },
+  {
+    "nome": "BARABBA",
+    "indizi": [
+      { "corretto": "LIBERATO", "errato": "GIUSTIZIATO", "spiegazione": "Fu rilasciato al posto di Gesù per volere della folla." },
+      { "corretto": "SEDIZIONE", "errato": "FURTO", "spiegazione": "Il crimine politico per cui era stato imprigionato." },
+      { "corretto": "PILATO", "errato": "ERODE", "spiegazione": "Il governatore che propose la scelta tra lui e Gesù." },
+      { "corretto": "PASQUA", "errato": "SABBATO", "spiegazione": "La festa durante la quale era consuetudine liberare un prigioniero." },
+      { "corretto": "OMICIDIO", "errato": "BIASIMO", "spiegazione": "Oltre alla rivolta, si era macchiato di questo grave reato." }
+    ]
+  },
+  {
+    "nome": "GOSEN",
+    "indizi": [
+      { "corretto": "EGITTO", "errato": "CANAAN", "spiegazione": "La regione dove si stabilirono i familiari di Giuseppe." },
+      { "corretto": "PASTORI", "errato": "MURATORI", "spiegazione": "L'occupazione degli israeliti che vivevano in quella zona." },
+      { "corretto": "LUCE", "errato": "TENEBRE", "spiegazione": "Ciò che continuò a esserci in questa terra durante la nona piaga." },
+      { "corretto": "MIGLIORE", "errato": "PEGGIORE", "spiegazione": "Il Faraone concesse loro la parte migliore del paese." },
+      { "corretto": "BESTIAME", "errato": "GRANO", "spiegazione": "La terra era particolarmente adatta per questo tipo di allevamento." }
+    ]
+  },
+  {
+    "nome": "DORCAS",
+    "indizi": [
+      { "corretto": "GIAFFA", "errato": "FILIPPI", "spiegazione": "La città dove viveva questa discepola conosciuta per le sue buone opere." },
+      { "corretto": "VESTI", "errato": "PANI", "spiegazione": "Gli oggetti che aveva cucito per le vedove e che furono mostrati a Pietro." },
+      { "corretto": "RESURREZIONE", "errato": "GUARIGIONE", "spiegazione": "Il miracolo compiuto da Pietro nei suoi confronti." },
+      { "corretto": "TABITA", "errato": "LIDIA", "spiegazione": "Il suo nome in aramaico." },
+      { "corretto": "GAZZELLA", "errato": "COLOMBA", "spiegazione": "Il significato letterale del suo nome." }
+    ]
+  },
+  {
+    "nome": "SINAGOGA",
+    "indizi": [
+      { "corretto": "SABBATO", "errato": "PASQUA", "spiegazione": "Il giorno in cui Gesù vi entrava solitamente per insegnare." },
+      { "corretto": "ROTOLO", "errato": "LIBRO", "spiegazione": "L'oggetto che veniva consegnato a Gesù per la lettura." },
+      { "corretto": "NAZARETH", "errato": "BETLEMME", "spiegazione": "La città dove Gesù fu cacciato dopo aver parlato in sinagoga." },
+      { "corretto": "MOSE", "errato": "DAVIDE", "spiegazione": "I capi religiosi sedevano sulla sua 'cattedra'." },
+      { "corretto": "INSEGNAMENTO", "errato": "SACRIFICIO", "spiegazione": "Era il luogo dedicato all'istruzione, non ai sacrifici animali." }
+    ]
+  },
+  {
+    "nome": "CALEB",
+    "indizi": [
+      { "corretto": "ESPLORATORE", "errato": "RE", "spiegazione": "Uno dei dodici mandati a spiare il paese di Canaan." },
+      { "corretto": "HEBRON", "errato": "IERICO", "spiegazione": "La città che ricevette in eredità per la sua fedeltà." },
+      { "corretto": "GIUDA", "errato": "BENIAMINO", "spiegazione": "La tribù a cui apparteneva." },
+      { "corretto": "GOSUE", "errato": "ARONNE", "spiegazione": "L'unico, insieme a lui, che entrò nella terra promessa della vecchia generazione." },
+      { "corretto": "FORZA", "errato": "RICCHEZZA", "spiegazione": "A 85 anni disse di avere ancora la stessa energia di quando ne aveva 40." }
+    ]
+  },
+  {
+    "nome": "EUTICO",
+    "indizi": [
+      { "corretto": "FINESTRA", "errato": "PORTA", "spiegazione": "Il luogo dove si era seduto prima di cadere." },
+      { "corretto": "SONNO", "errato": "FAME", "spiegazione": "Ciò che lo sopraffece durante il lungo discorso di Paolo." },
+      { "corretto": "TROAS", "errato": "EFESO", "spiegazione": "La città dove avvenne l'incidente." },
+      { "corretto": "TERZO", "errato": "SECONDO", "spiegazione": "Il piano da cui precipitò il ragazzo." },
+      { "corretto": "VIVO", "errato": "MORTO", "spiegazione": "Paolo lo abbracciò e disse che la sua anima era ancora in lui." }
+    ]
+  },
+  {
+    "nome": "MANDORLO",
+    "indizi": [
+      { "corretto": "BASTONE", "errato": "ALTARE", "spiegazione": "Quello di Aronne era fatto di questo legno e fiorì." },
+      { "corretto": "MIRA", "errato": "VIGILANZA", "spiegazione": "Il nome della pianta significa 'colui che si sveglia' perché fiorisce presto." },
+      { "corretto": "CANDELABRO", "errato": "ARCA", "spiegazione": "Le sue coppe avevano la forma di fiori di questa pianta." },
+      { "corretto": "GEREMIA", "errato": "ISAIA", "spiegazione": "Il profeta che vide un ramo di quest'albero in visione." },
+      { "corretto": "BIANCO", "errato": "ROSSO", "spiegazione": "Il colore dei suoi fiori, paragonati ai capelli bianchi nell'Ecclesiaste." }
+    ]
+  },
+  {
+    "nome": "SODOMA",
+    "indizi": [
+      { "corretto": "PIOGGIA", "errato": "NEVE", "spiegazione": "Fu di fuoco e zolfo invece che d'acqua." },
+      { "corretto": "ANGELI", "errato": "PASTORI", "spiegazione": "I visitatori che Lot ospitò a casa sua." },
+      { "corretto": "SALE", "errato": "PIETRA", "spiegazione": "La sostanza di cui divenne la moglie di Lot." },
+      { "corretto": "GIUSTI", "errato": "RICCHI", "spiegazione": "Abramo chiese a Dio di risparmiarla se ne avesse trovati almeno dieci." },
+      { "corretto": "CECITÀ", "errato": "SORDITÀ", "spiegazione": "La punizione che colpì gli uomini alla porta di Lot." }
+    ]
+  },
+  {
+    "nome": "ARARAT",
+    "indizi": [
+      { "corretto": "ARCA", "errato": "TEMPIO", "spiegazione": "L'imbarcazione di Noè si posò su queste montagne." },
+      { "corretto": "DILUVIO", "errato": "INCENDIO", "spiegazione": "L'evento catastrofico che portò l'arca in quel luogo." },
+      { "corretto": "SETTE", "errato": "DIECI", "spiegazione": "Il mese in cui l'arca si fermò sulle vette." },
+      { "corretto": "TURCHIA", "errato": "EGITTO", "spiegazione": "La nazione moderna dove si trova questo massiccio." },
+      { "corretto": "ALTARI", "errato": "MURA", "spiegazione": "Noè ne costruì uno appena sceso dalla montagna." }
+    ]
+  },
+  {
+    "nome": "UR",
+    "indizi": [
+      { "corretto": "ABRAMO", "errato": "MOSE", "spiegazione": "Il patriarca che partì da questa città dei Caldei." },
+      { "corretto": "MESOPOTAMIA", "errato": "EGITTO", "spiegazione": "La regione storica dove sorgeva la città." },
+      { "corretto": "IDOLATRIA", "errato": "LEGGE", "spiegazione": "La pratica comune degli abitanti da cui Abramo dovette allontanarsi." },
+      { "corretto": "HARAN", "errato": "BETEL", "spiegazione": "La città dove la famiglia di Abramo si fermò prima di andare in Canaan." },
+      { "corretto": "TERAH", "errato": "LOT", "spiegazione": "Il padre di Abramo che guidò inizialmente la spedizione fuori dalla città." }
+    ]
+  },
+  {
+    "nome": "MOGGIO",
+    "indizi": [
+      { "corretto": "LAMPADA", "errato": "SPADA", "spiegazione": "L'oggetto che non deve essere coperto da questo recipiente." },
+      { "corretto": "MISURA", "errato": "PESO", "spiegazione": "Era un contenitore usato per misurare i cereali." },
+      { "corretto": "LUCE", "errato": "ACQUA", "spiegazione": "Nelle parole di Gesù, rappresenta ciò che deve risplendere davanti agli uomini." },
+      { "corretto": "CASA", "errato": "TEMPIO", "spiegazione": "La lampada posta sul sostegno dà luce a tutti quelli che sono qui." },
+      { "corretto": "GRANO", "errato": "VINO", "spiegazione": "Il prodotto tipico che veniva misurato con questo strumento." }
+    ]
+  },
+  {
+    "nome": "GIUDA",
+    "indizi": [
+      { "corretto": "LEONE", "errato": "AGNELLO", "spiegazione": "L'animale simbolo della tribù regale." },
+      { "corretto": "DAVIDE", "errato": "SAUL", "spiegazione": "Il re più famoso nato da questa tribù." },
+      { "corretto": "QUARTA", "errato": "PRIMA", "spiegazione": "La posizione di Giuda tra i figli di Lea." },
+      { "corretto": "SUD", "errato": "NORD", "spiegazione": "La posizione del regno che rimase fedele alla casa di Davide." },
+      { "corretto": "SCETTRO", "errato": "SPADA", "spiegazione": "Giacobbe profetizzò che non si sarebbe allontanato da questa tribù." }
+    ]
   }
 ]
   
