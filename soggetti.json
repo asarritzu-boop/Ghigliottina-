@@ -10,6 +10,16 @@
     ]
   },
   {
+    "nome": "GOLIA",
+    "indizi": [
+      { "corretto": "FILISTEO", "errato": "AMMONITA", "spiegazione": "Apparteneva all'esercito nemico d'Israele." },
+      { "corretto": "GAT", "errato": "GABBATA", "spiegazione": "La città da cui proveniva il gigante." },
+      { "corretto": "FRONTE", "errato": "CUORE", "spiegazione": "Il punto in cui fu colpito dalla pietra di Davide." },
+      { "corretto": "SEI", "errato": "QUATTRO", "spiegazione": "La sua altezza era di sei cubiti e un palmo." },
+      { "corretto": "SPADA", "errato": "ARCO", "spiegazione": "Davide usò proprio l'arma del gigante per decapitarlo." }
+    ]
+  },
+  {
     "nome": "SANSONE",
     "indizi": [
       { "corretto": "NAZIREO", "errato": "LEVITA", "spiegazione": "Era dedicato a Dio fin dalla nascita con un voto speciale." },
@@ -17,16 +27,6 @@
       { "corretto": "DALILA", "errato": "ORPA", "spiegazione": "La donna che lo tradì rivelando il segreto della sua forza." },
       { "corretto": "MIELE", "errato": "ACQUA", "spiegazione": "Lo trovò all'interno della carcassa di un leone." },
       { "corretto": "COLONNE", "errato": "MURA", "spiegazione": "Le abbatté nel tempio di Dagon per il suo ultimo atto di forza." }
-    ]
-  },
-  {
-    "nome": "GIONA",
-    "indizi": [
-      { "corretto": "NINIVE", "errato": "TARSO", "spiegazione": "La città dove Dio lo mandò a predicare." },
-      { "corretto": "GIAFFA", "errato": "TIRO", "spiegazione": "Il porto da cui fuggì per non andare a Ninive." },
-      { "corretto": "TRE", "errato": "SETTE", "spiegazione": "I giorni trascorsi nel ventre del pesce." },
-      { "corretto": "ZUCCA", "errato": "FICO", "spiegazione": "La pianta che Dio fece crescere per fargli ombra." },
-      { "corretto": "SORTE", "errato": "SOGNO", "spiegazione": "Metodo usato dai marinai per capire di chi fosse la colpa." }
     ]
   },
   {
@@ -40,13 +40,63 @@
     ]
   },
   {
-    "nome": "GOLIA",
+    "nome": "GIONA",
     "indizi": [
-      { "corretto": "FILISTEO", "errato": "AMMONITA", "spiegazione": "Apparteneva all'esercito nemico d'Israele." },
-      { "corretto": "GAT", "errato": "GABBATA", "spiegazione": "La città da cui proveniva il gigante." },
-      { "corretto": "FRONTE", "errato": "CUORE", "spiegazione": "Il punto in cui fu colpito dalla pietra di Davide." },
-      { "corretto": "SEI", "errato": "QUATTRO", "spiegazione": "La sua altezza era di sei cubiti e un palmo." },
-      { "corretto": "SPADA", "errato": "ARCO", "spiegazione": "Davide usò l'arma del gigante per decapitarlo." }
+      { "corretto": "NINIVE", "errato": "TARSO", "spiegazione": "La città dove Dio lo mandò a predicare." },
+      { "corretto": "GIAFFA", "errato": "TIRO", "spiegazione": "Il porto da cui fuggì per non andare a Ninive." },
+      { "corretto": "TRE", "errato": "SETTE", "spiegazione": "I giorni trascorsi nel ventre del pesce." },
+      { "corretto": "ZUCCA", "errato": "FICO", "spiegazione": "La pianta che Dio fece crescere per fargli ombra." },
+      { "corretto": "SORTE", "errato": "SOGNO", "spiegazione": "Metodo usato dai marinai per capire di chi fosse la colpa." }
+    ]
+  },
+  {
+    "nome": "ARCA DEL PATTO",
+    "indizi": [
+      { "corretto": "CHERUBINI", "errato": "ANGELI", "spiegazione": "Le due figure d'oro poste sopra il coperchio." },
+      { "corretto": "MANNA", "errato": "INCENSO", "spiegazione": "Uno degli elementi conservati al suo interno." },
+      { "corretto": "PROPIZIATORIO", "errato": "ALTARE", "spiegazione": "Il nome del coperchio dell'arca." },
+      { "corretto": "GIORDANO", "errato": "NILO", "spiegazione": "Il fiume che si fermò quando l'arca lo toccò." },
+      { "corretto": "DAGON", "errato": "BAAL", "spiegazione": "Il dio la cui statua cadde davanti all'arca." }
+    ]
+  },
+  {
+    "nome": "DEBORA",
+    "indizi": [
+      { "corretto": "PALMA", "errato": "QUERCIA", "spiegazione": "Sedeva sotto questo albero per giudicare Israele." },
+      { "corretto": "BARAC", "errato": "GEDEONE", "spiegazione": "Il condottiero che chiamò per combattere Sisera." },
+      { "corretto": "PROFETESSA", "errato": "REGINA", "spiegazione": "Il ruolo spirituale che ricopriva in Israele." },
+      { "corretto": "TABOR", "errato": "ERMON", "spiegazione": "Il monte dove radunò l'esercito." },
+      { "corretto": "LAPIDOT", "errato": "EBER", "spiegazione": "Il nome di suo marito." }
+    ]
+  },
+  {
+    "nome": "MONTE SINAI",
+    "indizi": [
+      { "corretto": "ROVETO", "errato": "CEDRO", "spiegazione": "La pianta che bruciava senza consumarsi." },
+      { "corretto": "TAVOLE", "errato": "ROTOLI", "spiegazione": "Su di esse furono scritti i Dieci Comandamenti." },
+      { "corretto": "QUARANTA", "errato": "DODICI", "spiegazione": "I giorni che Mosè passò sulla cima." },
+      { "corretto": "NUBE", "errato": "PIOGGIA", "spiegazione": "Copriva il monte mentre Dio parlava." },
+      { "corretto": "VITELLO", "errato": "ARIETE", "spiegazione": "L'idolo d'oro costruito dal popolo a valle." }
+    ]
+  },
+  {
+    "nome": "GIOBBE",
+    "indizi": [
+      { "corretto": "UZ", "errato": "UR", "spiegazione": "Il paese in cui viveva questo uomo integro." },
+      { "corretto": "SETTE", "errato": "TRE", "spiegazione": "Il numero dei figli maschi che aveva all'inizio." },
+      { "corretto": "CENERI", "errato": "ACQUA", "spiegazione": "Dove sedette per il dolore durante la prova." },
+      { "corretto": "COCCIO", "errato": "COLTELLO", "spiegazione": "Lo usò per grattarsi a causa delle piaghe." },
+      { "corretto": "ELIHU", "errato": "ELIFAS", "spiegazione": "Il giovane che aspettò prima di parlare a Giobbe." }
+    ]
+  },
+  {
+    "nome": "RUT",
+    "indizi": [
+      { "corretto": "MOAB", "errato": "EDOM", "spiegazione": "La sua terra d'origine prima di andare a Betlemme." },
+      { "corretto": "SPIGOLARE", "errato": "SEMINARE", "spiegazione": "L'attività che svolgeva nel campo di Boaz." },
+      { "corretto": "ORZO", "errato": "GRANO", "spiegazione": "Il cereale che Boaz le diede in abbondanza." },
+      { "corretto": "NAOMI", "errato": "SARA", "spiegazione": "Sua suocera che non volle abbandonare." },
+      { "corretto": "OBED", "errato": "IESSE", "spiegazione": "Il figlio che ebbe da Boaz, nonno di Davide." }
     ]
   },
   {
@@ -54,39 +104,39 @@
     "indizi": [
       { "corretto": "CARMELO", "errato": "TABOR", "spiegazione": "Il monte della sfida contro i profeti di Baal." },
       { "corretto": "CORVI", "errato": "PASSARI", "spiegazione": "Gli uccelli che gli portavano pane e carne." },
-      { "corretto": "CARRO", "errato": "NUBE", "spiegazione": "Fu portato via da un carro di fuoco." },
+      { "corretto": "CARRO", "errato": "NUBE", "spiegazione": "Fu portato via da un carro di fuoco e un turbine." },
       { "corretto": "MANTELLO", "errato": "BASTONE", "spiegazione": "Lo usò per dividere le acque del Giordano." },
       { "corretto": "SAREPTA", "errato": "SODOMA", "spiegazione": "La città della vedova che lo ospitò." }
     ]
   },
   {
-    "nome": "DANIELE",
+    "nome": "CANDELABRO",
     "indizi": [
-      { "corretto": "LEONI", "errato": "ORSI", "spiegazione": "Fu gettato nella loro fossa ma rimase illeso." },
-      { "corretto": "FINESTRA", "errato": "PORTA", "spiegazione": "Pregava davanti a quella aperta verso Gerusalemme." },
-      { "corretto": "STATUA", "errato": "TEMPIO", "spiegazione": "Interpretò il sogno della figura multimetallica." },
-      { "corretto": "BABILONIA", "errato": "NINIVE", "spiegazione": "La città dove fu portato in esilio." },
-      { "corretto": "BELTSAZZAR", "errato": "ABEDNEGO", "spiegazione": "Il suo nome babilonese." }
+      { "corretto": "ORO", "errato": "ARGENTO", "spiegazione": "Era fatto interamente d'oro puro battuto." },
+      { "corretto": "SETTE", "errato": "DODICI", "spiegazione": "Il numero totale delle sue lampade." },
+      { "corretto": "MANDORLO", "errato": "ULIVO", "spiegazione": "I suoi calici avevano la forma di questo fiore." },
+      { "corretto": "SANTUARIO", "errato": "CORTILE", "spiegazione": "Si trovava nel Luogo Santo, di fronte alla tavola." },
+      { "corretto": "OLIO", "errato": "CERA", "spiegazione": "Alimentato con olio d'oliva puro." }
     ]
   },
   {
-    "nome": "LAZZARO",
+    "nome": "GOSUÈ",
     "indizi": [
-      { "corretto": "QUATTRO", "errato": "DUE", "spiegazione": "I giorni che era già rimasto nel sepolcro." },
-      { "corretto": "BENDE", "errato": "VESTI", "spiegazione": "Era avvolto in queste quando uscì dalla tomba." },
-      { "corretto": "BETANIA", "errato": "NAZARETH", "spiegazione": "Il villaggio dove viveva con le sorelle." },
-      { "corretto": "MARTA", "errato": "LIDIA", "spiegazione": "Una delle sue due sorelle." },
-      { "corretto": "PIANSE", "errato": "GRIDÒ", "spiegazione": "La reazione di Gesù prima di risuscitarlo." }
+      { "corretto": "NUN", "errato": "CALEB", "spiegazione": "Il nome di suo padre." },
+      { "corretto": "IERICO", "errato": "AI", "spiegazione": "La prima città conquistata dopo aver attraversato il Giordano." },
+      { "corretto": "SOLE", "errato": "LUNA", "spiegazione": "Comandò a questo astro di fermarsi su Gabaon." },
+      { "corretto": "ESPLORATORE", "errato": "SACERDOTE", "spiegazione": "Fu uno dei dodici mandati a spiare Canaan." },
+      { "corretto": "EFRAIM", "errato": "GIUDA", "spiegazione": "La tribù a cui apparteneva." }
     ]
   },
   {
-    "nome": "ZACCHEO",
+    "nome": "PETTORALE",
     "indizi": [
-      { "corretto": "SICOMORO", "errato": "QUERCIA", "spiegazione": "L'albero su cui salì per vedere Gesù." },
-      { "corretto": "TASSE", "errato": "PESCA", "spiegazione": "La sua attività principale come esattore." },
-      { "corretto": "STATURA", "errato": "VOCE", "spiegazione": "Era molto basso e non vedeva tra la folla." },
-      { "corretto": "IERICO", "errato": "BETANIA", "spiegazione": "La città dove incontrò il Maestro." },
-      { "corretto": "META", "errato": "TUTTO", "spiegazione": "La parte dei suoi beni che diede ai poveri." }
+      { "corretto": "DODICI", "errato": "DIECI", "spiegazione": "Il numero di pietre preziose incastonate sopra." },
+      { "corretto": "URIM", "errato": "MANNA", "spiegazione": "Insieme ai Tummim, serviva per conoscere la volontà divina." },
+      { "corretto": "GIUDIZIO", "errato": "POTENZA", "spiegazione": "Veniva chiamato 'Pettorale del Giudizio'." },
+      { "corretto": "CUORE", "errato": "BRACCIO", "spiegazione": "Il sommo sacerdote lo portava sopra il suo cuore." },
+      { "corretto": "FILO BLU", "errato": "FILO NERO", "spiegazione": "Usato per legarlo all'efod." }
     ]
   }
 ]
