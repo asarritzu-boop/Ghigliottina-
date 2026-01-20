@@ -808,6 +808,206 @@
       { "corretto": "SUD", "errato": "NORD", "spiegazione": "La posizione del regno che rimase fedele alla casa di Davide." },
       { "corretto": "SCETTRO", "errato": "SPADA", "spiegazione": "Giacobbe profetizzò che non si sarebbe allontanato da questa tribù." }
     ]
+  },
+    {
+    "nome": "ZACCHEO",
+    "indizi": [
+      { "corretto": "SICOMORO", "errato": "QUERCIA", "spiegazione": "L'albero su cui salì per riuscire a vedere Gesù." },
+      { "corretto": "IERICO", "errato": "BETANIA", "spiegazione": "La città dove avvenne l'incontro con il Maestro." },
+      { "corretto": "TASSE", "errato": "PESCA", "spiegazione": "La sua professione come capo degli esattori." },
+      { "corretto": "STATURA", "errato": "VOCE", "spiegazione": "Era molto basso e la folla gli impediva la visuale." },
+      { "corretto": "RESTITUZIONE", "errato": "FUGA", "spiegazione": "Promise di rendere quattro volte tanto a chi aveva frodato." }
+    ]
+  },
+  {
+    "nome": "GIACOBBE",
+    "indizi": [
+      { "corretto": "ZUPPA", "errato": "PANE", "spiegazione": "La usò per ottenere la primogenitura dal fratello." },
+      { "corretto": "LONTRA", "errato": "ANGELO", "spiegazione": "Lottò con una creatura spirituale per ottenere una benedizione." },
+      { "corretto": "TUNICA", "errato": "MANTELLO", "spiegazione": "Regalò al figlio preferito una veste molto speciale." },
+      { "corretto": "PENIEL", "errato": "SINAI", "spiegazione": "Il luogo dove lottò con Dio e vide la Sua faccia." },
+      { "corretto": "DODICI", "errato": "SETTE", "spiegazione": "Il numero totale dei figli maschi che ebbe." }
+    ]
+  },
+  {
+    "nome": "MANTELLO",
+    "indizi": [
+      { "corretto": "ELISEO", "errato": "TIMOTEO", "spiegazione": "Lo ricevette da Elia quando quest'ultimo fu portato via." },
+      { "corretto": "GIORDANO", "errato": "NILO", "spiegazione": "Elia lo usò per percuotere le acque e dividerle." },
+      { "corretto": "GROTTA", "errato": "TEMPIO", "spiegazione": "Elia vi si avvolse il viso quando udì la voce calma di Dio." },
+      { "corretto": "TROAS", "errato": "ROMA", "spiegazione": "Paolo chiese a Timoteo di portargli quello lasciato in questa città." },
+      { "corretto": "PROFETICO", "errato": "REALE", "spiegazione": "Era il capo d'abbigliamento distintivo di molti profeti." }
+    ]
+  },
+  {
+    "nome": "PATMOS",
+    "indizi": [
+      { "corretto": "GIOVANNI", "errato": "PAOLO", "spiegazione": "L'apostolo che fu esiliato su quest'isola." },
+      { "corretto": "RIVELAZIONE", "errato": "ATTI", "spiegazione": "Il libro biblico che fu scritto durante l'esilio sull'isola." },
+      { "corretto": "DOMIZIANO", "errato": "NERONE", "spiegazione": "L'imperatore romano che probabilmente ordinò l'esilio dell'apostolo." },
+      { "corretto": "SPIRITO", "errato": "SOGNO", "spiegazione": "Giovanni disse di essersi trovato 'per ispirazione nel giorno del Signore'." },
+      { "corretto": "TESTIMONIANZA", "errato": "COMMERCIO", "spiegazione": "L'apostolo era lì a motivo della parola di Dio." }
+    ]
+  },
+  {
+    "nome": "ANANIA",
+    "indizi": [
+      { "corretto": "DAMASCO", "errato": "ANTIOCHIA", "spiegazione": "La città dove viveva questo discepolo mandato da Saulo." },
+      { "corretto": "DIRITTA", "errato": "LARGA", "spiegazione": "Il nome della via dove doveva cercare la casa di Giuda." },
+      { "corretto": "SCAGLIE", "errato": "BENDE", "spiegazione": "Ciò che cadde dagli occhi di Saulo quando Anania lo toccò." },
+      { "corretto": "BATTESIMO", "errato": "CENA", "spiegazione": "Il rito che Saulo compì subito dopo aver riacquistato la vista." },
+      { "corretto": "VISIONE", "errato": "LETTERA", "spiegazione": "Il mezzo con cui il Signore parlò ad Anania per rassicurarlo." }
+    ]
+  },
+  {
+    "nome": "INCENSO",
+    "indizi": [
+      { "corretto": "RAME", "errato": "ORO", "spiegazione": "Il materiale del braciere usato quotidianamente dai sacerdoti." },
+      { "corretto": "PREGHIERA", "errato": "CANTI", "spiegazione": "Nei Salmi e nella Rivelazione è paragonato alle invocazioni dei santi." },
+      { "corretto": "MATTINA", "errato": "NOTTE", "spiegazione": "Veniva bruciato regolarmente ogni giorno a quest'ora." },
+      { "corretto": "ZACCARIA", "errato": "SIMEONE", "spiegazione": "Il sacerdote che lo stava offrendo quando gli apparve l'angelo." },
+      { "corretto": "SANTUARIO", "errato": "CORTILE", "spiegazione": "Il luogo specifico dove si trovava l'altare dedicato a questo rito." }
+    ]
+  },
+  {
+    "nome": "BEREANI",
+    "indizi": [
+      { "corretto": "SCRITTURE", "errato": "TRADIZIONI", "spiegazione": "Le esaminavano ogni giorno per verificare l'insegnamento di Paolo." },
+      { "corretto": "NOBILI", "errato": "POVERI", "spiegazione": "Luca li definisce di sentimenti più nobili di quelli di Tessalonica." },
+      { "corretto": "MACEDONIA", "errato": "GALAZIA", "spiegazione": "La regione greca dove si trovava la loro città." },
+      { "corretto": "MOLTI", "errato": "POCHI", "spiegazione": "La Bibbia dice che molti di loro divennero credenti." },
+      { "corretto": "PRONTEZZA", "errato": "DUBBIO", "spiegazione": "Ricevettero la parola con la massima premura di mente." }
+    ]
+  },
+  {
+    "nome": "CENERE",
+    "indizi": [
+      { "corretto": "DOLORE", "errato": "GIOIA", "spiegazione": "Metterla sul capo era un segno di profonda umiliazione o lutto." },
+      { "corretto": "NINIVE", "errato": "BABILONIA", "spiegazione": "Il re di questa città vi si sedette sopra in segno di pentimento." },
+      { "corretto": "POLVERE", "errato": "SABBIA", "spiegazione": "Abramo si definì così davanti a Dio per umiltà." },
+      { "corretto": "SACCO", "errato": "LINO", "spiegazione": "Il tipo di veste ruvida spesso associata all'uso della cenere." },
+      { "corretto": "GIOBBE", "errato": "NOE", "spiegazione": "Si pentì 'nella polvere e nella cenere' alla fine della sua prova." }
+    ]
+  },
+  {
+    "nome": "NAIN",
+    "indizi": [
+      { "corretto": "VEDOVA", "errato": "REGINA", "spiegazione": "La donna a cui Gesù restituì il figlio unico." },
+      { "corretto": "PORTA", "errato": "TEMPIO", "spiegazione": "Il miracolo avvenne mentre il corteo funebre usciva da qui." },
+      { "corretto": "BARA", "errato": "LETTO", "spiegazione": "Gesù la toccò e ordinò al giovane di alzarsi." },
+      { "corretto": "GALILEA", "errato": "GIUDEA", "spiegazione": "La regione dove si trovava questo piccolo villaggio." },
+      { "corretto": "COMPASSIONE", "errato": "RABBIA", "spiegazione": "Il sentimento che spinse Gesù a intervenire per la madre." }
+    ]
+  },
+  {
+    "nome": "ABIGAIL",
+    "indizi": [
+      { "corretto": "NABAL", "errato": "ACHITOFEL", "spiegazione": "Il nome del suo primo marito, un uomo stolto e duro." },
+      { "corretto": "PANE", "errato": "SPADE", "spiegazione": "Portò grandi provviste a Davide per placare la sua ira." },
+      { "corretto": "SAGGEZZA", "errato": "BELLEZZA", "spiegazione": "Fu lodata da Davide per il suo buon senso e prontezza." },
+      { "corretto": "SANGUE", "errato": "ORO", "spiegazione": "Impedì a Davide di farsi giustizia da solo e spargere sangue." },
+      { "corretto": "CARMELO", "errato": "SION", "spiegazione": "La zona dove viveva e dove avvenne l'incontro con Davide." }
+    ]
+  },
+  {
+    "nome": "MIRIAM",
+    "indizi": [
+      { "corretto": "LEBBRA", "errato": "CECITA", "spiegazione": "La punizione che ricevette per aver parlato contro Mosè." },
+      { "corretto": "TAMBURELLO", "errato": "CETRA", "spiegazione": "Lo usò per guidare le donne nel canto dopo il Mar Rosso." },
+      { "corretto": "PROFETESSA", "errato": "REGINA", "spiegazione": "Il titolo con cui viene identificata la sorella di Aronne." },
+      { "corretto": "NILO", "errato": "GIORDANO", "spiegazione": "Sorvegliò da lontano il fratellino Mosè nel paniere." },
+      { "corretto": "SETTE", "errato": "TRE", "spiegazione": "I giorni che dovette restare fuori dall'accampamento perché impura." }
+    ]
+  },
+  {
+    "nome": "MOLTIPLICAZIONE",
+    "indizi": [
+      { "corretto": "PANI", "errato": "PIETRE", "spiegazione": "Il cibo principale del miracolo di Gesù per la folla." },
+      { "corretto": "CESTE", "errato": "SACCHI", "spiegazione": "Ne avanzarono dodici piene dopo che tutti ebbero mangiato." },
+      { "corretto": "CINQUE", "errato": "DIECI", "spiegazione": "Il numero iniziale di pani d'orzo disponibili." },
+      { "corretto": "ERBA", "errato": "SABBIA", "spiegazione": "Gesù ordinò alla folla di sedersi su di essa." },
+      { "corretto": "PESCI", "errato": "UCCELLI", "spiegazione": "Oltre al pane, Gesù moltiplicò anche due di questi." }
+    ]
+  },
+  {
+    "nome": "TABITA",
+    "indizi": [
+      { "corretto": "CUCITO", "errato": "PITTURA", "spiegazione": "Era nota per fare tuniche e mantelli per i bisognosi." },
+      { "corretto": "PIETRO", "errato": "GIOVANNI", "spiegazione": "L'apostolo che la risuscitò dai morti." },
+      { "corretto": "VEDOVE", "errato": "BAMBINI", "spiegazione": "Le persone che piangevano la sua morte e mostrarono i suoi lavori." },
+      { "corretto": "GIAFFA", "errato": "GERUSALEMME", "spiegazione": "La città costiera dove avvenne il miracolo." },
+      { "corretto": "DORCAS", "errato": "LIDIA", "spiegazione": "Il suo nome tradotto in greco (che significa Gazzella)." }
+    ]
+  },
+  {
+    "nome": "ANNA",
+    "indizi": [
+      { "corretto": "SILO", "errato": "BETEL", "spiegazione": "Il luogo dove si recava ogni anno per pregare nel tabernacolo." },
+      { "corretto": "LABBRA", "errato": "VOCE", "spiegazione": "Si muovevano mentre pregava, ma non si udiva alcun suono." },
+      { "corretto": "ELI", "errato": "SAMUELE", "spiegazione": "Il sacerdote che inizialmente pensò fosse ubriaca." },
+      { "corretto": "VOTO", "errato": "DONO", "spiegazione": "Promise a Dio di dedicargli il figlio se avesse potuto averne uno." },
+      { "corretto": "ELKANA", "errato": "BOAZ", "spiegazione": "Il nome di suo marito che la amava molto." }
+    ]
+  },
+  {
+    "nome": "SICOMORO",
+    "indizi": [
+      { "corretto": "AMOS", "errato": "GIONA", "spiegazione": "Il profeta che era un coltivatore di frutti di quest'albero." },
+      { "corretto": "ZACCHEO", "errato": "PIETRO", "spiegazione": "L'uomo che vi salì sopra per vedere Gesù passare." },
+      { "corretto": "FICO", "errato": "CEDRO", "spiegazione": "L'albero appartiene alla stessa famiglia di questa pianta." },
+      { "corretto": "EGITTO", "errato": "MOAB", "spiegazione": "Un legno molto usato in questo paese e citato nelle piaghe (Salmi)." },
+      { "corretto": "PIANURA", "errato": "MONTAGNA", "spiegazione": "Cresceva in abbondanza nella Sefela (zona collinare/pianeggiante)." }
+    ]
+  },
+  {
+    "nome": "BALAAM",
+    "indizi": [
+      { "corretto": "ASINA", "errato": "PECORA", "spiegazione": "L'animale che vide l'angelo e parlò al padrone." },
+      { "corretto": "MOAB", "errato": "EDOM", "spiegazione": "Il paese del re Balac che lo aveva chiamato." },
+      { "corretto": "SPADA", "errato": "BASTONE", "spiegazione": "L'arma che l'angelo impugnava per sbarrargli la strada." },
+      { "corretto": "TRE", "errato": "SETTE", "spiegazione": "Le volte che colpì l'animale prima che questo parlasse." },
+      { "corretto": "PROFETIZZARE", "errato": "MALEDIRE", "spiegazione": "Ciò che fu costretto a fare a favore di Israele invece di danneggiarlo." }
+    ]
+  },
+  {
+    "nome": "GIONATAN",
+    "indizi": [
+      { "corretto": "MIELE", "errato": "PANE", "spiegazione": "Ne mangiò un po' nel bosco inconsapevole del giuramento del padre." },
+      { "corretto": "DAVIDE", "errato": "SALOMONE", "spiegazione": "Il suo migliore amico per cui provava un amore fraterno." },
+      { "corretto": "SAUL", "errato": "SAMUELE", "spiegazione": "Il re d'Israele di cui era il figlio primogenito." },
+      { "corretto": "ARCO", "errato": "FRONDA", "spiegazione": "La sua arma preferita, usata anche per dare un segnale a Davide." },
+      { "corretto": "GILBOA", "errato": "SION", "spiegazione": "Il monte dove morì in battaglia insieme al padre." }
+    ]
+  },
+  {
+    "nome": "ELISEO",
+    "indizi": [
+      { "corretto": "BUOI", "errato": "PECORE", "spiegazione": "Stava arando con dodici paia di questi animali quando fu chiamato." },
+      { "corretto": "DOPPIA", "errato": "TRIPLA", "spiegazione": "La porzione di spirito che chiese a Elia come eredità." },
+      { "corretto": "MANTELLO", "errato": "BASTONE", "spiegazione": "L'oggetto che ricevette mentre Elia saliva in cielo." },
+      { "corretto": "ORSA", "errato": "LEONE", "spiegazione": "L'animale che punì i ragazzi che lo schernivano." },
+      { "corretto": "SALE", "errato": "OLIO", "spiegazione": "Lo usò per risanare le acque cattive di una sorgente." }
+    ]
+  },
+  {
+    "nome": "NICODEMO",
+    "indizi": [
+      { "corretto": "NOTTE", "errato": "GIORNO", "spiegazione": "Il momento in cui andò segretamente a parlare con Gesù." },
+      { "corretto": "NASCITA", "errato": "MORTE", "spiegazione": "Chiese a Gesù come fosse possibile nascere di nuovo." },
+      { "corretto": "FARISEO", "errato": "SADDUCEO", "spiegazione": "La setta religiosa a cui apparteneva questo capo dei Giudei." },
+      { "corretto": "MIRRA", "errato": "ORO", "spiegazione": "Portò una mistura di aromi per la sepoltura di Gesù." },
+      { "corretto": "SINEDRIO", "errato": "ESERCITO", "spiegazione": "Prese le difese di Gesù davanti a questo consiglio." }
+    ]
+  },
+  {
+    "nome": "SABA",
+    "indizi": [
+      { "corretto": "SALOMONE", "errato": "DAVIDE", "spiegazione": "La regina di questo regno andò a fargli visita." },
+      { "corretto": "ENIGMI", "errato": "REGALI", "spiegazione": "Voleva mettere alla prova il re con domande difficili." },
+      { "corretto": "SPEZIE", "errato": "SETI", "spiegazione": "Uno dei ricchi doni che portò in carovana al re." },
+      { "corretto": "SUD", "errato": "NORD", "spiegazione": "Gesù la chiamò la 'Regina del Meridione'." },
+      { "corretto": "SVENIRE", "errato": "GRIDARE", "spiegazione": "Rimase senza fiato nel vedere la gloria e la sapienza del re." }
+    ]
   }
 ]
   
