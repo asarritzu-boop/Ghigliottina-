@@ -624,7 +624,7 @@
     "indizi": [
       { "corretto": "VIPERA", "errato": "SCORPIONE", "spiegazione": "L'animale che morse Paolo appena acceso il fuoco dopo il naufragio." },
       { "corretto": "NAUFRAGIO", "errato": "TERREMOTO", "spiegazione": "L'evento che portò Paolo e i suoi compagni su quest'isola." },
-      { "corretto": "PUBALIO", "errato": "FESTO", "spiegazione": "L'uomo principale dell'isola che li ospitò con benevolenza." },
+      { "corretto": "PUBLIO", "errato": "FESTO", "spiegazione": "L'uomo principale dell'isola che li ospitò con benevolenza." },
       { "corretto": "INVERNO", "errato": "ESTATE", "spiegazione": "La stagione che i naufraghi trascorsero sull'isola." },
       { "corretto": "BARBARI", "errato": "GRECI", "spiegazione": "Come venivano chiamati gli abitanti locali nel racconto degli Atti." }
     ]
@@ -654,7 +654,7 @@
     "indizi": [
       { "corretto": "ZACCARIA", "errato": "GIUSEPPE", "spiegazione": "L'uomo a cui annunciò la nascita di Giovanni Battista nel tempio." },
       { "corretto": "NAZARETH", "errato": "BETLEMME", "spiegazione": "La città dove apparve a Maria per l'annuncio del Messia." },
-      { "corretto": "DANIELA", "errato": "EZECHIELE", "spiegazione": "Il profeta dell'Antico Testamento a cui spiegò diverse visioni." },
+      { "corretto": "DANIELE", "errato": "EZECHIELE", "spiegazione": "Il profeta dell'Antico Testamento a cui spiegò diverse visioni." },
       { "corretto": "ANGELO", "errato": "RE", "spiegazione": "La sua natura spirituale di messaggero celeste." },
       { "corretto": "PAURA", "errato": "GIOIA", "spiegazione": "Le prime parole che disse a Maria furono: 'Non aver paura'." }
     ]
