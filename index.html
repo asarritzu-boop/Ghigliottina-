@@ -213,6 +213,20 @@
             .game-btn { width: 85%; height: 110px; background: rgba(255,255,255,0.1) !important; }
         }
     </style>
+    <link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0d0d0d">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('sw.js')
+        .then(reg => console.log('Service Worker registrato per Ghigliottina!'))
+        .catch(err => console.log('Errore SW:', err));
+    });
+  }
+</script>
 </head>
 <body>
     <div id="home-screen" class="screen active">
